@@ -7,11 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 18:14:17 +0000</lastBuildDate>
     <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid029XV5kVCLM7BYahzy4vcKyKkfLZmNW4rg1n93XkskG9Bt11vWr71pAGTgtWwgbWrPl</link>
-      <guid isPermaLink="false">pfbid029XV5kVCLM7BYahzy4vcKyKkfLZmNW4rg1n93XkskG9Bt11vWr71pAGTgtWwgbWrPl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/543386632_4328678977363010_3145077852559571589_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=0EkuVUCAzSIQ7kNvwEuuE_f&amp;_nc_oc=AdqpNz_PoEcvnSDDpMusRbG8eE5ODFFanrM_Eonu2sIbpS9P7V4PAn1lRV-Fn-Zitmc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=FShG1pyGV2Mdj2NFTkWQzg&amp;_nc_ss=7a3a8&amp;oh=00_Af1AqIR78uUgjJJmyPrf2-zUXQfzZ_5XRv5_3A9sp0Jd6Q&amp;oe=69DBAA49" length="0" type="image/jpeg" />
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid02h37iRNKpT9u6h7ZNpGmueF3kPjemtJKNSmhnUgd9ttAS4y8Q9wCKtFopzH8PiH9Zl</link>
+      <guid isPermaLink="false">pfbid02h37iRNKpT9u6h7ZNpGmueF3kPjemtJKNSmhnUgd9ttAS4y8Q9wCKtFopzH8PiH9Zl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/544799985_4329657440598497_247128218303648171_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=0cnnRbUTVPYQ7kNvwFB9DTk&amp;_nc_oc=AdqHvvUXnShsir4yaCFFnRG_mbWzg_vPni30jLlGVyPlhMnkpxq1rWYCLHhrNAgS-Qs&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=W3c7Y1YWjKltsZYZE4xbZA&amp;_nc_ss=7a3a8&amp;oh=00_Af11ofmVk41XFFMwoH15B5tsP4D4BKGcBF91e9fKkvZQMQ&amp;oe=69DC6B79" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;10+ лет до того, как заняться хардвером, я был пиарщиком. Вот список, что пришлось освоить, выучить или вспомнить, чтобы заниматься хардвером:
+- CAD: достаточно понимать, на что вообще смотришь, моделировать опционально;
+- C: у любого электронного девайса есть прошивка, которая пишется на сях; я как-то криво-косо знал его в школе, а в универе скорее забыл, чем доучил, пришлось помучиться; 
+- Doodling: когда кроме идеи еще ничего нет, словами объясняться очень долго, поэтому в идеале промышленному дизайнеру вместе с ТЗ надо отдавать первичные эскизы — а где их взять? Только самому рисовать;
+- Упрощенный китайский: я знаю ну примерно 100 важных мне иероглифов, типа «спасибо», «когда будет готово», «не работает», и «дорого»;
+- Сорсинг и заказ сэмплов: есть куча сайтов, в основном китайских, где можно делать аутрич к фабрикам и подрядчикам, если уже поставлен quality control и прописаны регламенты тестов и приемки, можно здорово экономить время на аутсорсинге сорсинга (простите); 
+- Школьная математика: внезапно выяснилось, что тот (невезучий) человек, которому блять из всех пригодились логорифмы и матрицы, это я. Наши датчики отдают raw data, которые приводят в божеский вид достаточно сложные формулы с кучей коэффициентов, подтяжек, аппроксимаций и прочей ерунды; а я кстати терпеть не могу математику, у меня что-то вроде легкой дислексии, и если там больше 2 цифр подряд, особенно одинаковых, я все, потерялся;
+- Элементарная физика: в школе я физику знал из рук вон плохо, потому что у нас была злобная уставшая от жизни училка, которая ну мягко говоря не верила в мой интеллектуальный потенциал, зато в вузе нам преподавали легендарные профессоры Самедов и Колдобский;
+- Законодательство страны и отдельно штата Делавер;
+- Топология и трассировка печатных плат: сначала я этим пренебрегал, и считаю самой большой и дорогой ошибкой на дистанции;
+- Логистика: брокеры, карго земля/воздух, таможенное оформление в разных странах, DDU/DDP списки;
+Это совсем не все, но почти все из главного. Сейчас я подтягиваю знания по перформанс-маркетингу и UGC, чтобы лучше понимать, почему мы быстрее или медленнее масштабируемся.
+Как-то так, спрашивайте.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/544799985_4329657440598497_247128218303648171_n.jpg?_nc_cat=105&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=0cnnRbUTVPYQ7kNvwFB9DTk&amp;amp;_nc_oc=AdqHvvUXnShsir4yaCFFnRG_mbWzg_vPni30jLlGVyPlhMnkpxq1rWYCLHhrNAgS-Qs&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=W3c7Y1YWjKltsZYZE4xbZA&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af11ofmVk41XFFMwoH15B5tsP4D4BKGcBF91e9fKkvZQMQ&amp;amp;oe=69DC6B79" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid05yqtqKZyW15uDXVwHeCjP9y3zGNEebYBHzM23vpsByzjdUyJTXxWf8tSKBQNePPel</link>
+      <guid isPermaLink="false">pfbid05yqtqKZyW15uDXVwHeCjP9y3zGNEebYBHzM23vpsByzjdUyJTXxWf8tSKBQNePPel</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/543386632_4328678977363010_3145077852559571589_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=0EkuVUCAzSIQ7kNvwEuuE_f&amp;_nc_oc=AdqpNz_PoEcvnSDDpMusRbG8eE5ODFFanrM_Eonu2sIbpS9P7V4PAn1lRV-Fn-Zitmc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=WDn3eOmCM-1Hj-cAeSc6AQ&amp;_nc_ss=7a3a8&amp;oh=00_Af3PmhBJRd5_iVK7h9AnnL_E2tF0wc9fMzNEMajmk0Ppfw&amp;oe=69DC5309" length="0" type="image/jpeg" />
     <content:encoded>&lt;p&gt;Сейчас я вам расскажу, как быстро войти в состояние придумывания, изобретения, решения проблем, озарений, - вот этого всего. Как, в целом, когнитивно ожить немножко.
 Путь к креативности, активному созиданию и эврикам лежит через скуку.
 Почаще скучайте. Не берите с собой в зал наушники, не слушайте подкаст фоном, отложите телефон после 7 вечера и оставьте 2 emergency контакта, которые могут прозвониться. Не смотрите сериал, не играйте в приставку, не заказывайте доставку из рестика. Я не про «цифровой детокс», а про общую «пресность». Прекратите - аллегорически - прыгать каждую секунду с парашютом.
@@ -19,18 +36,168 @@
 Оригинальные мысли любят тишину в голове, — не «отсутствие мыслей», а тупо тишину в эфире, отсутствие постоянного чужого входящего информационного фона. 
 И будут вам интересные новые мысли, которым вы сами удивитесь.
 P.S. если разговор сразу строить про «аскезу», все интуитивно думают про духовную, и пытаются решать проблему не с того конца (нам с вами до духовной, как до Луны пешком, современный человек атрофировал эту мышцу, она долго нарабатывается, забейте). 
-Физическая аскеза прекрасно работает, и не требует от человека знания диалектики и законов духовной жизни.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/543386632_4328678977363010_3145077852559571589_n.jpg?_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=0EkuVUCAzSIQ7kNvwEuuE_f&amp;amp;_nc_oc=AdqpNz_PoEcvnSDDpMusRbG8eE5ODFFanrM_Eonu2sIbpS9P7V4PAn1lRV-Fn-Zitmc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=FShG1pyGV2Mdj2NFTkWQzg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1AqIR78uUgjJJmyPrf2-zUXQfzZ_5XRv5_3A9sp0Jd6Q&amp;amp;oe=69DBAA49" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+Физическая аскеза прекрасно работает, и не требует от человека знания диалектики и законов духовной жизни.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/543386632_4328678977363010_3145077852559571589_n.jpg?_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=0EkuVUCAzSIQ7kNvwEuuE_f&amp;amp;_nc_oc=AdqpNz_PoEcvnSDDpMusRbG8eE5ODFFanrM_Eonu2sIbpS9P7V4PAn1lRV-Fn-Zitmc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=WDn3eOmCM-1Hj-cAeSc6AQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3PmhBJRd5_iVK7h9AnnL_E2tF0wc9fMzNEMajmk0Ppfw&amp;amp;oe=69DC5309" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02ywAgGsgDoVSsUMC6THkexWptgZEdnbEeGcL1vxafjmoDgCs8ktbxWW24SBpdRCcGl</link>
-      <guid isPermaLink="false">pfbid02ywAgGsgDoVSsUMC6THkexWptgZEdnbEeGcL1vxafjmoDgCs8ktbxWW24SBpdRCcGl</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/542107879_4323277354569839_4917891049651534976_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=ByXOvdeBfyUQ7kNvwFwZcwk&amp;_nc_oc=AdpuXEacDJMN0AqSZCQnNnR6mXHOjxaPxqyumMVCEMi67ykLSTnURU5AClvmpI3McL4&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=FShG1pyGV2Mdj2NFTkWQzg&amp;_nc_ss=7a3a8&amp;oh=00_Af0Nj35uIFNhOgLVn1azTR2NnfEfn1bmiMEZjCzsbom7QA&amp;oe=69DB9DE2" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;У нас порядка 70% покупок Oumua (!) через сайт делают люди 45+, и из них еще примерно половина - 60+.
-На Амазоне немного другая картина, там ядро 35-54, из-за особенностей площадки. 
-- «Почему вы не продаетесь как велнесс, сейчас так популярна йога, дыхательные практики». - Так а зачем?
-Дыхательные практики и йога не заставляют покупать девайс. 
-Нехватка воздуха и емкость легких полтора литра - это да, отличная мотивация. 
-Бросить курить, не бросая привычку, это хорошая мотивация. 
-Простите, если цинично звучит, но это единственное, что продает на дистанции в хелс-теке, и если это работает, то можно выдумывать любые вензеля вокруг, ядро аудитории это вам не поменяет.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/542107879_4323277354569839_4917891049651534976_n.jpg?_nc_cat=102&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=ByXOvdeBfyUQ7kNvwFwZcwk&amp;amp;_nc_oc=AdpuXEacDJMN0AqSZCQnNnR6mXHOjxaPxqyumMVCEMi67ykLSTnURU5AClvmpI3McL4&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=FShG1pyGV2Mdj2NFTkWQzg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0Nj35uIFNhOgLVn1azTR2NnfEfn1bmiMEZjCzsbom7QA&amp;amp;oe=69DB9DE2" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid0CGPQdpsgQ1fpXVAaM4DdHFRqgJrqjnoPRLnMB6gFrcbDfgS7Q6b9a3K4siXaiWdrl</link>
+      <guid isPermaLink="false">pfbid0CGPQdpsgQ1fpXVAaM4DdHFRqgJrqjnoPRLnMB6gFrcbDfgS7Q6b9a3K4siXaiWdrl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/540520785_4321408098090098_3960056050701632794_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=Y4ovTu2QPmgQ7kNvwGejfxI&amp;_nc_oc=AdpdehqRvZ5wTP4GJZBwEHFsyczjf5BB_SH0Xp-Fu3CHtmRucvndbxlKER93Bypn2mI&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=MC9lVg47TpV81IJSiHU5TQ&amp;_nc_ss=7a3a8&amp;oh=00_Af0U-3XdXEYsnwB__GmJp0FY2MKGpLQkF9acjqcqOR8zcQ&amp;oe=69DC6966" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Я отправил заявку на одну там визу, и теперь жду, как чего.
+Параллельно мы ждем последние ISO тесты (это очень долго и дорого), чтобы отправить заявку на сертификацию FDA, остальной пакет весь собрали и утрясли, представителя нашли, классификацию подобрали, etc.
+Ситуация следующая:
+- виза: 2714 страниц, 15 кг
+- заявка FDA: 80 страниц, 50-60 еще тесты будут; ~ 0.5 кг
+… и вот меня там спрашивают, кто в курсе, что мы сертифицируемся, типа: сложно наверное, вы же без юристов пишете (на самом деле мы консультируемся немножко, просто основное собирали сами). 
+А я не знаю, как правильно сказать, потому что выглядит, как будто выделываюсь, но… 
+после визы заявка на FDA, любая научная статья, фундаментальная лекция, или там докторская диссертация — это просто легкая прогулка на свежем воздухе. 
+Это изи, так сказать, катка, понимаете.
+Dare I say, ни до, ни после я столько с данными не работал, и наверное уже работать не буду. 
+Под конец там не то что выгорание, - я слова такого не знаю, на каких тягах я это дописывал 
+ нервное истощение чисто тихонько в дверь стучалось и такое «Филипп Михайлович, у вас фенибут стынет, я перезаварю?». - Перезаварите, голубчик. 
+Ну вот, сейчас уже, конечно, все в порядке. 
+FDA это так, ерунда, детский лепет. 
+￼&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/540520785_4321408098090098_3960056050701632794_n.jpg?_nc_cat=104&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=Y4ovTu2QPmgQ7kNvwGejfxI&amp;amp;_nc_oc=AdpdehqRvZ5wTP4GJZBwEHFsyczjf5BB_SH0Xp-Fu3CHtmRucvndbxlKER93Bypn2mI&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=MC9lVg47TpV81IJSiHU5TQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0U-3XdXEYsnwB__GmJp0FY2MKGpLQkF9acjqcqOR8zcQ&amp;amp;oe=69DC6966" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid022YXwkEH7nuVZw2e2eJmCd7QtbFP6PdtyUuR4qRaCvKh2fAzQ8ybJ4LTRou8eBzqCl</link>
+      <guid isPermaLink="false">pfbid022YXwkEH7nuVZw2e2eJmCd7QtbFP6PdtyUuR4qRaCvKh2fAzQ8ybJ4LTRou8eBzqCl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/538314174_4318332885064286_7399090544831176153_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=nptYVL_uhmAQ7kNvwFrs1w8&amp;_nc_oc=AdqJNlPbPxznm0QjOzon5VLFAlrpRh1apRUNlNf4o0icxJHk5lAdNK42FqUIX3ygu9Y&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=MC9lVg47TpV81IJSiHU5TQ&amp;_nc_ss=7a3a8&amp;oh=00_Af2aLYHAj7kvyKhiM9OUD7uVYRW32eu9eeAPx8n2-mvm7A&amp;oe=69DC4F93" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Завтра вот тут рассказываю про Oumua, приходите.
+https://leader-id.ru/events/562653 регистрация тут (я не знаю, что это за платформа, сорри)&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/538314174_4318332885064286_7399090544831176153_n.jpg?_nc_cat=101&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=nptYVL_uhmAQ7kNvwFrs1w8&amp;amp;_nc_oc=AdqJNlPbPxznm0QjOzon5VLFAlrpRh1apRUNlNf4o0icxJHk5lAdNK42FqUIX3ygu9Y&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=MC9lVg47TpV81IJSiHU5TQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2aLYHAj7kvyKhiM9OUD7uVYRW32eu9eeAPx8n2-mvm7A&amp;amp;oe=69DC4F93" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid02tAf6BLZe3dvFYmjbxz8YV6MxtKwHXtYTLzSYteGhPSDFRFKao1ugyLHUZBkLfpuul</link>
+      <guid isPermaLink="false">pfbid02tAf6BLZe3dvFYmjbxz8YV6MxtKwHXtYTLzSYteGhPSDFRFKao1ugyLHUZBkLfpuul</guid>
+    <content:encoded>&lt;p&gt;Выглядит, как будто производство физического b2c продукта — это пипец какая многоножка, и нужно учесть миллион факторов, чтобы на выходе получилось что-то экономически эффективное.
+На самом деле, есть куча «шума» вроде сертификации, логистики, таможенного законодательства, торговых марок, патентов, etc. Выглядит важным, является важным. Не является критичным.
+И есть 2 реально ключевых метрики, которые либо OK, и у вас есть бизнес, либо не OK, и это не бизнес.
+ 1. Себестоимость производства
+ 2. Эластичность спроса по этой цене
+Всё.
+Либо вы можете ДЕШЕВО произвести X десятков/сотен тысяч юнитов в год, и ДОРОГО их продать, либо нет. К этой формуле можно сводить и объем рынка, и конкурентов, и спрос, и географию, и каналы дистрибуции, и вообще всё остальное.
+И решения у этих типовых проблем также типовые и очень простые. Если интересно, я, так и быть, поделюсь этим сакральным знанием на две строчки (актуально это, напомню, для физических продуктов).&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid0m5owY89ex546pEddBW6aCtb76nM45Tds7fs7oeG6mTMvitK4aoWpYzV1N6hmvquml</link>
+      <guid isPermaLink="false">pfbid0m5owY89ex546pEddBW6aCtb76nM45Tds7fs7oeG6mTMvitK4aoWpYzV1N6hmvquml</guid>
+      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/535672058_4311158039115104_5373448486908996596_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=9VG20ZvkPj4Q7kNvwF_oJCt&amp;_nc_oc=AdpaXaNgmA6okG2wyyLcmNa1HX8ecNvGBENvw6w4QhI_-NnRpmvtTdIqwBWyRIOby74&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=6E41yU7EVpNuuiGB5T-nsQ&amp;_nc_ss=7a3a8&amp;oh=00_Af1eCyNDAfVGiLaqZ7WaDUXWXy6C5HNyZSxDGek846pAng&amp;oe=69DC46BF" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Behold: Терентий.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/535672058_4311158039115104_5373448486908996596_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=110&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=9VG20ZvkPj4Q7kNvwF_oJCt&amp;amp;_nc_oc=AdpaXaNgmA6okG2wyyLcmNa1HX8ecNvGBENvw6w4QhI_-NnRpmvtTdIqwBWyRIOby74&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=6E41yU7EVpNuuiGB5T-nsQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1eCyNDAfVGiLaqZ7WaDUXWXy6C5HNyZSxDGek846pAng&amp;amp;oe=69DC46BF" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid024nVdHQQvYyJyAAS21mBm3Nazm8hULkSJwteXoCS3SzXBHkSnD95zQJfyU4EXAdxAl</link>
+      <guid isPermaLink="false">pfbid024nVdHQQvYyJyAAS21mBm3Nazm8hULkSJwteXoCS3SzXBHkSnD95zQJfyU4EXAdxAl</guid>
+    <content:encoded>&lt;p&gt;Ребята, а кто-нибудь занимался или занимается пчелами/осами? Инсектолог?
+Или, возможно, у вас есть знакомый крутой ботаник, кто работал с микробиологией лиственных (это связанные вопросы, но я знаю, что ботаники не занимаются пчелами)?
+В обоих случаях, пожалуйста, тегните или напишите мне&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid02Sbh9e5Nssf2oxp44EadCTRUrePF2RbjKPX2ioYLTao4Pjf9K1VeAVC6r5EH6x77Bl</link>
+      <guid isPermaLink="false">pfbid02Sbh9e5Nssf2oxp44EadCTRUrePF2RbjKPX2ioYLTao4Pjf9K1VeAVC6r5EH6x77Bl</guid>
+    <content:encoded>&lt;p&gt;Шо вы думаете по поводу идеи, что у отдельных органов тела, ну, кроме мозга, есть что-то вроде собственной агентности и что-то вроде собственного сознания? 
+И мы, как официальные представители мозга в нашем теле, не на 100% в курсе, что «думает» наша печень или наша поджелудочная. 
+Не потому, что тело нас «изолирует» и бережет от этого знания, а потому что мы одна распределенная система внутри распределенной системы побольше, и не на…&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
+      <guid isPermaLink="false">acd84cd2faf07dca</guid>
+    <content:encoded>&lt;p&gt;Дайте плиз хорошего быстрого помогатора по регистрации:
+- дизайн-патента
+- топологии платы
+- торговой марки
+В России или ЕАЭС.&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
+      <guid isPermaLink="false">3b59d6a4bd7915f5</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/545866383_4331715597059348_7269884735192105103_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=tndBhe83RgIQ7kNvwHgxdA8&amp;_nc_oc=AdrUfVPG_2ELpf_TBSC7urX_zL_U8VHPsRioSVwiqYnpk1GolJLEC3k-eHLtI7UPcDc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=QoQHRsoIVpMaqex_fwxUpQ&amp;_nc_ss=7a3a8&amp;oh=00_Af0PcKrsNsNvbYgRTe8ZAv8oeEyjErofaOt4W7A5za0IDw&amp;oe=69DB7338" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;У Oumua есть кнопка, которая по тапу загорается, дает обратную хептик связь в палец, и мигает, это обеспечивают два простых ярких диода. 
+Раньше обеспечивали два простых, а теперь - два UV диода, которые позволяют переключать свет с обычного голубого на UV и обратно. 
+Благодаря этому, а также чуть другому расположению самих диодов, мы можем программно добавить «режим стерилизации», где весь внутренний контур устройства освечивается UV светом и практически полностью стерилизуется за 10 минут. 
+Особенно это актуально для центральной части, куда может не добраться вода при мытье под краном. 
+Так что вот, теперь тренажер еще и сам себя моет.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/545866383_4331715597059348_7269884735192105103_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=tndBhe83RgIQ7kNvwHgxdA8&amp;amp;_nc_oc=AdrUfVPG_2ELpf_TBSC7urX_zL_U8VHPsRioSVwiqYnpk1GolJLEC3k-eHLtI7UPcDc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=QoQHRsoIVpMaqex_fwxUpQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0PcKrsNsNvbYgRTe8ZAv8oeEyjErofaOt4W7A5za0IDw&amp;amp;oe=69DB7338" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
+      <guid isPermaLink="false">742f6afc65cdc1f0</guid>
+    <content:encoded>&lt;p&gt;Через недельку выкатим новый сайт - просто космолет. Одна из важных штук для беспроблемного масштабирования любого d2c продукта. 
+А еще месяца через два новое приложение - в одной дизайн-системе с сайтом, в 100 раз более удобное, логичное, быстрое, полезное, etc. Тут то оно кстати и перестанет быть бесплатным 
+К концу года также надеюсь запустить нечто под названием Oumua Ultimate, это будет hi-end версия девайса, которая будет уметь штуки, которые не умеет ни один продукт на рынке longevity/healthtech. 
+Это будет отдельный анонс с медиа, инфлами, и прочим подобным.&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
+      <guid isPermaLink="false">94a0db773a0740d9</guid>
+      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/545156106_4330812270483014_5950474143070625002_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=ipOsoGFrAPsQ7kNvwEzF9UG&amp;_nc_oc=AdqM3tG4XVhTcyTb6xWrcCGyfkMx7hlbPzHiwXsMbeHg7vboCI7v_MmMrPkIWrtSLcc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=EC3URFyxoFlTaVvm_yNaSw&amp;_nc_ss=7a3a8&amp;oh=00_Af2mQXurreViXRd8Unz-sNgEhWioyLlzMmFj3r_HxAwdiA&amp;oe=69DB96AF" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Новая коробка (тестовая)&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/545156106_4330812270483014_5950474143070625002_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=103&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=ipOsoGFrAPsQ7kNvwEzF9UG&amp;amp;_nc_oc=AdqM3tG4XVhTcyTb6xWrcCGyfkMx7hlbPzHiwXsMbeHg7vboCI7v_MmMrPkIWrtSLcc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=EC3URFyxoFlTaVvm_yNaSw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2mQXurreViXRd8Unz-sNgEhWioyLlzMmFj3r_HxAwdiA&amp;amp;oe=69DB96AF" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid0dBg1EhPzbphnTtnumXjoQvn7Kw7m75L3EHqUdgd3RGj7NVSGRiX6ALYQiemiCC66l</link>
+      <guid isPermaLink="false">pfbid0dBg1EhPzbphnTtnumXjoQvn7Kw7m75L3EHqUdgd3RGj7NVSGRiX6ALYQiemiCC66l</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/544799985_4329657440598497_247128218303648171_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=0cnnRbUTVPYQ7kNvwFB9DTk&amp;_nc_oc=AdqHvvUXnShsir4yaCFFnRG_mbWzg_vPni30jLlGVyPlhMnkpxq1rWYCLHhrNAgS-Qs&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=EC3URFyxoFlTaVvm_yNaSw&amp;_nc_ss=7a3a8&amp;oh=00_Af0ggc1eA0wnxd4oZj4K46Ofjj6XU8dzXDBIgZDnte036A&amp;oe=69DB8A79" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;10+ лет до того, как заняться хардвером, я был пиарщиком. Вот список, что пришлось освоить, выучить или вспомнить, чтобы заниматься хардвером:
+- CAD: достаточно понимать, на что вообще смотришь, моделировать опционально;
+- C: у любого электронного девайса есть прошивка, которая пишется на сях; я как-то криво-косо знал его в школе, а в универе скорее забыл, чем доучил, пришлось помучиться; 
+- Doodling: когда кроме идеи еще ничего нет, словами объясняться очень долго, поэтому в идеале промышленному дизайнеру вместе с ТЗ надо отдавать первичные эскизы — а где их взять? Только самому рисовать;
+- Упрощенный китайский: я знаю ну примерно 100 важных мне иероглифов, типа «спасибо», «когда будет готово», «не работает», и «дорого»;
+- Сорсинг и заказ сэмплов: есть куча сайтов, в основном китайских, где можно делать аутрич к фабрикам и подрядчикам, если уже поставлен quality control и прописаны регламенты тестов и приемки, можно здорово экономить время на аутсорсинге сорсинга (простите); 
+- Школьная математика: внезапно выяснилось, что тот (невезучий) человек, которому блять из всех пригодились логорифмы и матрицы, это я. Наши датчики отдают raw data, которые приводят в божеский вид достаточно сложные формулы с кучей коэффициентов, подтяжек, аппроксимаций и прочей ерунды; а я кстати терпеть не могу математику, у меня что-то вроде легкой дислексии, и если там больше 2 цифр подряд, особенно одинаковых, я все, потерялся;
+- Элементарная физика: в школе я физику знал из рук вон плохо, потому что у нас была злобная уставшая от жизни училка, которая ну мягко говоря не верила в мой интеллектуальный потенциал, зато в вузе нам преподавали легендарные профессоры Самедов и Колдобский;
+- Законодательство страны и отдельно штата Делавер;
+- Топология и трассировка печатных плат: сначала я этим пренебрегал, и считаю самой большой и дорогой ошибкой на дистанции;
+- Логистика: брокеры, карго земля/воздух, таможенное оформление в разных странах, DDU/DDP списки;
+Это совсем не все, но почти все из главного. Сейчас я подтягиваю знания по перформанс-маркетингу и UGC, чтобы лучше понимать, почему мы быстрее или медленнее масштабируемся.
+Как-то так, спрашивайте.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/544799985_4329657440598497_247128218303648171_n.jpg?_nc_cat=105&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=0cnnRbUTVPYQ7kNvwFB9DTk&amp;amp;_nc_oc=AdqHvvUXnShsir4yaCFFnRG_mbWzg_vPni30jLlGVyPlhMnkpxq1rWYCLHhrNAgS-Qs&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=EC3URFyxoFlTaVvm_yNaSw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0ggc1eA0wnxd4oZj4K46Ofjj6XU8dzXDBIgZDnte036A&amp;amp;oe=69DB8A79" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
+      <guid isPermaLink="false">4a3277ba078eef79</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/550588736_4346311495599758_4854607966004415911_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=fQEZINqvWNAQ7kNvwFW-9UY&amp;_nc_oc=AdoVIibpoyTJL5PcG9f9CLavYRFmHl-oPXHvKkLsr1D238AP_UMV0P2aLIpJW_gd2wA&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=5F9wM2ltg75LUVATiBtMkw&amp;_nc_ss=7a3a8&amp;oh=00_Af1V1TBOYNMOWF6KlxYgnoowtPpIsLFGuZatzr9duZQYww&amp;oe=69DB73AC" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Потихоньку подбираюсь к анонсу нового девайса. Oumua, разумеется, никуда не девается, про тренажер будет только больше новостей ближайшее время: про заявку в FDA, дистрибуцию в России (at last), новую версию устройства с чекапом здоровья по выдоху, etc. 
+Сказавши это 
+ новый девайс — это «биохакерский мультитул», который за счет Кучи датчиков (12 разных ТИПОВ датчиков, работающих в связке друг с другом), объединенных в одном форм-факторе, снимает с юзера беспрецедентное количество неинвазивных данных о здоровье. 
+Данные снимаются практически с каждой важной системы организма с помощью несложных, интуитивно понятных тестов. И выдает… ох, чего он только не выдает, но ближе всего это к «индивидуальному чекапу здоровья в любой момент в карманном форм-факторе по цене шоколадки». 
+Это не все - с подключаемыми модулями (адд-онами) мы планируем добавлять более «инвазивные» модули вроде анализа крови и мочи.
+И это все еще не все 
+ мультитул также можно будет синхронизировать с данными, поступающими от Гармин, Apple, Oura и Whoop. 
+И, разумеется, в центре этого всего будет AI, который будет искать пересечения всех метрик со всеми остальными метриками, и тренироваться выдавать о вас всякое супер-интересное, точное, важное для вас, и, самое главное, предиктивное.
+Так вот: этой штуке нужно НАЗВАНИЕ. 
+У меня есть несколько идей, но вы пишите ваши варианты в комментариях — самый крутой вариант получит тренажер Oumua с доставкой в любую точку мира.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/550588736_4346311495599758_4854607966004415911_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=fQEZINqvWNAQ7kNvwFW-9UY&amp;amp;_nc_oc=AdoVIibpoyTJL5PcG9f9CLavYRFmHl-oPXHvKkLsr1D238AP_UMV0P2aLIpJW_gd2wA&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=5F9wM2ltg75LUVATiBtMkw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1V1TBOYNMOWF6KlxYgnoowtPpIsLFGuZatzr9duZQYww&amp;amp;oe=69DB73AC" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid0kk9jmB22AXXr4nWWXdbc2XT4t26a2JePD8XGPFZQqP7LpEU8krNW9GdGdRDjhmTul</link>
+      <guid isPermaLink="false">pfbid0kk9jmB22AXXr4nWWXdbc2XT4t26a2JePD8XGPFZQqP7LpEU8krNW9GdGdRDjhmTul</guid>
+    <content:encoded>&lt;p&gt;https://startupsummit.ru
+Вот тут на финале Sber500 буду рассказывать про ИИ в текущей и новой версии Oumua. 
+Ну а про что я еще могу рассказывать, правильно, у меня одна пластинка.
+Приходите!
+Я правда не знаю, как, потому что это закрытая история по приглашениям с важными дядьками в костюмах. 
+Даже я буду в костюме&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid02XiXU6vkKBbWPpATtpUHbvGcDB8o4xHGCk96aC56vn3TsNtDR8tA9a1sACQSRPxFVl</link>
+      <guid isPermaLink="false">pfbid02XiXU6vkKBbWPpATtpUHbvGcDB8o4xHGCk96aC56vn3TsNtDR8tA9a1sACQSRPxFVl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/557079584_4354323721465202_4758784612872997593_n.jpg?stp=cp6_dst-jpg_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=WBXIkGTfnoIQ7kNvwHTwZXs&amp;_nc_oc=Adqd9KUeVtR_lKZACtfaKFKrwktdddRZ-E5sd5bu1IeNqpsQC2pKlfub1L8dsD3BReo&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=nUAeN4ZbEzL6Wb1tjRaIaA&amp;_nc_ss=7a3a8&amp;oh=00_Af33o7zKyhH97Vt-nOG6gpn-2XdnHhsq3G1d-rcxImjZWQ&amp;oe=69DB944F" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Закрываю компанию.
+Когда проиграл, то надо признавать, что проиграл.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/557079584_4354323721465202_4758784612872997593_n.jpg?stp=cp6_dst-jpg_tt6&amp;amp;_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=WBXIkGTfnoIQ7kNvwHTwZXs&amp;amp;_nc_oc=Adqd9KUeVtR_lKZACtfaKFKrwktdddRZ-E5sd5bu1IeNqpsQC2pKlfub1L8dsD3BReo&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=nUAeN4ZbEzL6Wb1tjRaIaA&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af33o7zKyhH97Vt-nOG6gpn-2XdnHhsq3G1d-rcxImjZWQ&amp;amp;oe=69DB944F" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid02VVf8PnAFhxP4yFKw4K75p3fvVNY77VaAhakvvUZRqHE9jfnSfWGqcHuvjbMS4Kmml</link>
+      <guid isPermaLink="false">pfbid02VVf8PnAFhxP4yFKw4K75p3fvVNY77VaAhakvvUZRqHE9jfnSfWGqcHuvjbMS4Kmml</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/549264926_4345159145714993_442964081326667631_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=BE0zMAE78usQ7kNvwFU3NNU&amp;_nc_oc=AdqKqHoUrF1UQZFoy83VeGpMqP0Q13TdigNdJzontpj3BFTyvtJxH5nJbzq-jUTK0GA&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=IjtOHs7kV_Vhzbz8zZos5w&amp;_nc_ss=7a3a8&amp;oh=00_Af3NgeQmFS1d1s7YAw2uICZaNU96sidrjJTPpaLGvJsHrA&amp;oe=69DBA562" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Сделал пересадку волос.  
+Рассказываю: лет до 25 у меня была отличная полная голова волос, без малейших признаков андрогенетической алопеции. В какой-то момент мне показалось, что этого НЕДОСТАТОЧНО, нужно еще больше волос (дурак с культом тела короче). Я начал использовать миноксидил, к которому у меня оказался очень хороший ответ — после короткой адаптации волосы начали просто переть, а на побочные эффекты вроде одышки, сердцебиения, отеков и плохого сна я не обращал внимания. 
+Обратить внимание все же пришлось, не вдаваясь в подробности - был легкий приступообразный эпизод с очень низким давлением и высоченным пульсом, которого мне хватило, чтобы до смерти напугаться и перестать использовать миноксидил. 
+Разумеется, отменил я его одним днем, чего делать ни при каких обстоятельствах ни в коем случае нельзя. Ну, если вам нужны волосы 
+ Мне этот момент как-то никто не подсветил, я знал, что выпадет то, что приросло за время использования, но я не знал, что выпадет еще примерно 50% всех остальных волос.
+Далее примерно 5 лет я восстанавливался с помощью всякого, и, я имею в виду, ВСЯКОГО: любые масла, какие-то странные формулы, пептиды, red light therapy, etc. Круче всего кстати эффект был от дермароллинга, удалось вернуть процентов 70 от того, что было в точке «ноль». Это долгий путь, и я его уже как-то описывал — думаю, что мой восстановительный протокол даст большинству людей хорошие результаты, если его имплементировать хотя бы на 6 месяцев. 
+И тем не менее, невротизация в процессе уже успела произойти (и углубиться), а я очень не люблю, когда какие-то внешностные моменты мной «обладают». Я себя в целом устраиваю — кроме вот этого момента. Если я не могу изменить свое отношение к нему, и не могу исправить консервативно, значит, нужно разобраться с этим один раз радикально.
+Поэтому я повыбирал клинику, сходил на консультацию, выбрал врача, согласовал с ним дату и план, мы порисовали у меня на голове белым мелком, какую линию я хочу (на самом деле просто ту, которая была, не изобретайте Italian prime у себя на голове, если вы из оригинально из Волгограда, вам будет оптимально ваш Slavonic prime).
+В следующем посте опишу, как оно вообще, и так ли это страшно, больно, дорого, и прочее.
+На второй фотке я уже подзажил, и пересаженные волосы начинают выпадать - это т.н. Shedding phase, во время которой вы теряете все пересаженные волосы и два месяца ходите еще более плешивым, чем обычно 
+ но также это знак, что все прошло хорошо.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/549264926_4345159145714993_442964081326667631_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=BE0zMAE78usQ7kNvwFU3NNU&amp;amp;_nc_oc=AdqKqHoUrF1UQZFoy83VeGpMqP0Q13TdigNdJzontpj3BFTyvtJxH5nJbzq-jUTK0GA&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=IjtOHs7kV_Vhzbz8zZos5w&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3NgeQmFS1d1s7YAw2uICZaNU96sidrjJTPpaLGvJsHrA&amp;amp;oe=69DBA562" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/550866468_4345159142381660_6741917927672389234_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=109&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=fboAscRgragQ7kNvwEJdHFJ&amp;amp;_nc_oc=AdrGUQBcq0VIfPI9xec7EVtitFEb_BSULyH80j7TbwxW_k2lM0AGXuozyQWwfEfSzuE&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=IjtOHs7kV_Vhzbz8zZos5w&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0Yt-VhOcyE8kD7KxBlRIToersDK1ay5Oaz68UL_ZnoFg&amp;amp;oe=69DB929E" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid02axUbuieSucPAhSTHTByyufyAu6fCutozmLXkrVQNE7c6vNk56JtB1HBcfuc6eTfjl</link>
+      <guid isPermaLink="false">pfbid02axUbuieSucPAhSTHTByyufyAu6fCutozmLXkrVQNE7c6vNk56JtB1HBcfuc6eTfjl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/536531891_4313479912216250_8646759067185967914_n.jpg?stp=cp6_dst-jpg_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=5VrXHFX_XCMQ7kNvwEc5YJ5&amp;_nc_oc=Adqtp8Yh1IBj3Z1rXwOSWOY-_cPEnZm94K0UQR2rXwrKS6OyNhBvxT0eJFLlk5Qh_CQ&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=zzQ5r5CGnLEyoXwAw17C4A&amp;_nc_ss=7a3a8&amp;oh=00_Af2NhMeu_Hl3zlYQa23lXrw4gL0-QJtEdyPGQXOb-4V6Sw&amp;oe=69DB9C26" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Помните я рассказывал, что в «железном» любом проекте есть две ключевые метрики — эластичность спроса и себестоимость производства. И что, если с ними беда, то бизнеса …&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/536531891_4313479912216250_8646759067185967914_n.jpg?stp=cp6_dst-jpg_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=5VrXHFX_XCMQ7kNvwEc5YJ5&amp;amp;_nc_oc=Adqtp8Yh1IBj3Z1rXwOSWOY-_cPEnZm94K0UQR2rXwrKS6OyNhBvxT0eJFLlk5Qh_CQ&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=zzQ5r5CGnLEyoXwAw17C4A&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2NhMeu_Hl3zlYQa23lXrw4gL0-QJtEdyPGQXOb-4V6Sw&amp;amp;oe=69DB9C26" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
+      <guid isPermaLink="false">32c958a329bf7ebc</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/537240943_4314259458804962_676327952537080432_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=WJySFuUDRu8Q7kNvwF79fGf&amp;_nc_oc=AdpfZDG_aLwEFQwjQQzbZClaThZosMOSqHFwAVX6OfGoYEJCkaleac0jdEGJH5W6JR8&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;_nc_ss=7a3a8&amp;oh=00_Af0n1XddxxO7fcYJlY8GmBg9MKOk1jKGeHGtwUy7JmP-VQ&amp;oe=69DBC476" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Просто новая прошивка Oumua тестируется.
+Теперь до 500 дней в пассивном режиме без подзарядки будет тянуть. 
+Как Нокиа 3310.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/537240943_4314259458804962_676327952537080432_n.jpg?_nc_cat=104&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=WJySFuUDRu8Q7kNvwF79fGf&amp;amp;_nc_oc=AdpfZDG_aLwEFQwjQQzbZClaThZosMOSqHFwAVX6OfGoYEJCkaleac0jdEGJH5W6JR8&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0n1XddxxO7fcYJlY8GmBg9MKOk1jKGeHGtwUy7JmP-VQ&amp;amp;oe=69DBC476" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid0366B8fPuUeEDVZzk1au8fPQrgvq3ACcaaufoQAvf71BQtqS2UdtZzuJnxCP1hhpTKl</link>
+      <guid isPermaLink="false">pfbid0366B8fPuUeEDVZzk1au8fPQrgvq3ACcaaufoQAvf71BQtqS2UdtZzuJnxCP1hhpTKl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/538314174_4318332885064286_7399090544831176153_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=nptYVL_uhmAQ7kNvwFrs1w8&amp;_nc_oc=AdqJNlPbPxznm0QjOzon5VLFAlrpRh1apRUNlNf4o0icxJHk5lAdNK42FqUIX3ygu9Y&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;_nc_ss=7a3a8&amp;oh=00_Af17xW7Bo2suBAMRFtNphvUrG79kNp7BEJdeD__-Na52nA&amp;oe=69DBA6D3" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Завтра вот тут рассказываю про Oumua, приходите.
+https://leader-id.ru/events/562653 регистрация тут (я не знаю, что это за платформа, сорри)&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/538314174_4318332885064286_7399090544831176153_n.jpg?_nc_cat=101&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=nptYVL_uhmAQ7kNvwFrs1w8&amp;amp;_nc_oc=AdqJNlPbPxznm0QjOzon5VLFAlrpRh1apRUNlNf4o0icxJHk5lAdNK42FqUIX3ygu9Y&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af17xW7Bo2suBAMRFtNphvUrG79kNp7BEJdeD__-Na52nA&amp;amp;oe=69DBA6D3" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
       <link>https://www.facebook.com/frankocorelli/posts/pfbid02Fp2bYzW3FK5N9KWBAHwxe5dXFyTGdWeJeYRFRkejd6DXvh7XpnqfuvCraqzcZQpQl</link>
       <guid isPermaLink="false">pfbid02Fp2bYzW3FK5N9KWBAHwxe5dXFyTGdWeJeYRFRkejd6DXvh7XpnqfuvCraqzcZQpQl</guid>
@@ -51,177 +218,20 @@ Dare I say, ни до, ни после я столько с данными не 
 FDA это так, ерунда, детский лепет. 
 ￼&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/540520785_4321408098090098_3960056050701632794_n.jpg?_nc_cat=104&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=Y4ovTu2QPmgQ7kNvwGejfxI&amp;amp;_nc_oc=AdpdehqRvZ5wTP4GJZBwEHFsyczjf5BB_SH0Xp-Fu3CHtmRucvndbxlKER93Bypn2mI&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3mNgdDcDIcE7mAQ2TN-unLdKuXGOrx8URCiec9n7SoNQ&amp;amp;oe=69DBC0A6" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0366B8fPuUeEDVZzk1au8fPQrgvq3ACcaaufoQAvf71BQtqS2UdtZzuJnxCP1hhpTKl</link>
-      <guid isPermaLink="false">pfbid0366B8fPuUeEDVZzk1au8fPQrgvq3ACcaaufoQAvf71BQtqS2UdtZzuJnxCP1hhpTKl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/538314174_4318332885064286_7399090544831176153_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=nptYVL_uhmAQ7kNvwFrs1w8&amp;_nc_oc=AdqJNlPbPxznm0QjOzon5VLFAlrpRh1apRUNlNf4o0icxJHk5lAdNK42FqUIX3ygu9Y&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;_nc_ss=7a3a8&amp;oh=00_Af17xW7Bo2suBAMRFtNphvUrG79kNp7BEJdeD__-Na52nA&amp;oe=69DBA6D3" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Завтра вот тут рассказываю про Oumua, приходите.
-https://leader-id.ru/events/562653 регистрация тут (я не знаю, что это за платформа, сорри)&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/538314174_4318332885064286_7399090544831176153_n.jpg?_nc_cat=101&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=nptYVL_uhmAQ7kNvwFrs1w8&amp;amp;_nc_oc=AdqJNlPbPxznm0QjOzon5VLFAlrpRh1apRUNlNf4o0icxJHk5lAdNK42FqUIX3ygu9Y&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af17xW7Bo2suBAMRFtNphvUrG79kNp7BEJdeD__-Na52nA&amp;amp;oe=69DBA6D3" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid02ywAgGsgDoVSsUMC6THkexWptgZEdnbEeGcL1vxafjmoDgCs8ktbxWW24SBpdRCcGl</link>
+      <guid isPermaLink="false">pfbid02ywAgGsgDoVSsUMC6THkexWptgZEdnbEeGcL1vxafjmoDgCs8ktbxWW24SBpdRCcGl</guid>
+      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/542107879_4323277354569839_4917891049651534976_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=ByXOvdeBfyUQ7kNvwFwZcwk&amp;_nc_oc=AdpuXEacDJMN0AqSZCQnNnR6mXHOjxaPxqyumMVCEMi67ykLSTnURU5AClvmpI3McL4&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=FShG1pyGV2Mdj2NFTkWQzg&amp;_nc_ss=7a3a8&amp;oh=00_Af0Nj35uIFNhOgLVn1azTR2NnfEfn1bmiMEZjCzsbom7QA&amp;oe=69DB9DE2" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;У нас порядка 70% покупок Oumua (!) через сайт делают люди 45+, и из них еще примерно половина - 60+.
+На Амазоне немного другая картина, там ядро 35-54, из-за особенностей площадки. 
+- «Почему вы не продаетесь как велнесс, сейчас так популярна йога, дыхательные практики». - Так а зачем?
+Дыхательные практики и йога не заставляют покупать девайс. 
+Нехватка воздуха и емкость легких полтора литра - это да, отличная мотивация. 
+Бросить курить, не бросая привычку, это хорошая мотивация. 
+Простите, если цинично звучит, но это единственное, что продает на дистанции в хелс-теке, и если это работает, то можно выдумывать любые вензеля вокруг, ядро аудитории это вам не поменяет.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/542107879_4323277354569839_4917891049651534976_n.jpg?_nc_cat=102&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=ByXOvdeBfyUQ7kNvwFwZcwk&amp;amp;_nc_oc=AdpuXEacDJMN0AqSZCQnNnR6mXHOjxaPxqyumMVCEMi67ykLSTnURU5AClvmpI3McL4&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=FShG1pyGV2Mdj2NFTkWQzg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0Nj35uIFNhOgLVn1azTR2NnfEfn1bmiMEZjCzsbom7QA&amp;amp;oe=69DB9DE2" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
-      <guid isPermaLink="false">32c958a329bf7ebc</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/537240943_4314259458804962_676327952537080432_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=WJySFuUDRu8Q7kNvwF79fGf&amp;_nc_oc=AdpfZDG_aLwEFQwjQQzbZClaThZosMOSqHFwAVX6OfGoYEJCkaleac0jdEGJH5W6JR8&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;_nc_ss=7a3a8&amp;oh=00_Af0n1XddxxO7fcYJlY8GmBg9MKOk1jKGeHGtwUy7JmP-VQ&amp;oe=69DBC476" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Просто новая прошивка Oumua тестируется.
-Теперь до 500 дней в пассивном режиме без подзарядки будет тянуть. 
-Как Нокиа 3310.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/537240943_4314259458804962_676327952537080432_n.jpg?_nc_cat=104&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=WJySFuUDRu8Q7kNvwF79fGf&amp;amp;_nc_oc=AdpfZDG_aLwEFQwjQQzbZClaThZosMOSqHFwAVX6OfGoYEJCkaleac0jdEGJH5W6JR8&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=9jJb7X-2U5rFMURbk6NEyg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0n1XddxxO7fcYJlY8GmBg9MKOk1jKGeHGtwUy7JmP-VQ&amp;amp;oe=69DBC476" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02axUbuieSucPAhSTHTByyufyAu6fCutozmLXkrVQNE7c6vNk56JtB1HBcfuc6eTfjl</link>
-      <guid isPermaLink="false">pfbid02axUbuieSucPAhSTHTByyufyAu6fCutozmLXkrVQNE7c6vNk56JtB1HBcfuc6eTfjl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/536531891_4313479912216250_8646759067185967914_n.jpg?stp=cp6_dst-jpg_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=5VrXHFX_XCMQ7kNvwEc5YJ5&amp;_nc_oc=Adqtp8Yh1IBj3Z1rXwOSWOY-_cPEnZm94K0UQR2rXwrKS6OyNhBvxT0eJFLlk5Qh_CQ&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=zzQ5r5CGnLEyoXwAw17C4A&amp;_nc_ss=7a3a8&amp;oh=00_Af2NhMeu_Hl3zlYQa23lXrw4gL0-QJtEdyPGQXOb-4V6Sw&amp;oe=69DB9C26" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Помните я рассказывал, что в «железном» любом проекте есть две ключевые метрики — эластичность спроса и себестоимость производства. И что, если с ними беда, то бизнеса …&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/536531891_4313479912216250_8646759067185967914_n.jpg?stp=cp6_dst-jpg_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=5VrXHFX_XCMQ7kNvwEc5YJ5&amp;amp;_nc_oc=Adqtp8Yh1IBj3Z1rXwOSWOY-_cPEnZm94K0UQR2rXwrKS6OyNhBvxT0eJFLlk5Qh_CQ&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=zzQ5r5CGnLEyoXwAw17C4A&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2NhMeu_Hl3zlYQa23lXrw4gL0-QJtEdyPGQXOb-4V6Sw&amp;amp;oe=69DB9C26" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02VVf8PnAFhxP4yFKw4K75p3fvVNY77VaAhakvvUZRqHE9jfnSfWGqcHuvjbMS4Kmml</link>
-      <guid isPermaLink="false">pfbid02VVf8PnAFhxP4yFKw4K75p3fvVNY77VaAhakvvUZRqHE9jfnSfWGqcHuvjbMS4Kmml</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/549264926_4345159145714993_442964081326667631_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=BE0zMAE78usQ7kNvwFU3NNU&amp;_nc_oc=AdqKqHoUrF1UQZFoy83VeGpMqP0Q13TdigNdJzontpj3BFTyvtJxH5nJbzq-jUTK0GA&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=IjtOHs7kV_Vhzbz8zZos5w&amp;_nc_ss=7a3a8&amp;oh=00_Af3NgeQmFS1d1s7YAw2uICZaNU96sidrjJTPpaLGvJsHrA&amp;oe=69DBA562" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Сделал пересадку волос.  
-Рассказываю: лет до 25 у меня была отличная полная голова волос, без малейших признаков андрогенетической алопеции. В какой-то момент мне показалось, что этого НЕДОСТАТОЧНО, нужно еще больше волос (дурак с культом тела короче). Я начал использовать миноксидил, к которому у меня оказался очень хороший ответ — после короткой адаптации волосы начали просто переть, а на побочные эффекты вроде одышки, сердцебиения, отеков и плохого сна я не обращал внимания. 
-Обратить внимание все же пришлось, не вдаваясь в подробности - был легкий приступообразный эпизод с очень низким давлением и высоченным пульсом, которого мне хватило, чтобы до смерти напугаться и перестать использовать миноксидил. 
-Разумеется, отменил я его одним днем, чего делать ни при каких обстоятельствах ни в коем случае нельзя. Ну, если вам нужны волосы 
- Мне этот момент как-то никто не подсветил, я знал, что выпадет то, что приросло за время использования, но я не знал, что выпадет еще примерно 50% всех остальных волос.
-Далее примерно 5 лет я восстанавливался с помощью всякого, и, я имею в виду, ВСЯКОГО: любые масла, какие-то странные формулы, пептиды, red light therapy, etc. Круче всего кстати эффект был от дермароллинга, удалось вернуть процентов 70 от того, что было в точке «ноль». Это долгий путь, и я его уже как-то описывал — думаю, что мой восстановительный протокол даст большинству людей хорошие результаты, если его имплементировать хотя бы на 6 месяцев. 
-И тем не менее, невротизация в процессе уже успела произойти (и углубиться), а я очень не люблю, когда какие-то внешностные моменты мной «обладают». Я себя в целом устраиваю — кроме вот этого момента. Если я не могу изменить свое отношение к нему, и не могу исправить консервативно, значит, нужно разобраться с этим один раз радикально.
-Поэтому я повыбирал клинику, сходил на консультацию, выбрал врача, согласовал с ним дату и план, мы порисовали у меня на голове белым мелком, какую линию я хочу (на самом деле просто ту, которая была, не изобретайте Italian prime у себя на голове, если вы из оригинально из Волгограда, вам будет оптимально ваш Slavonic prime).
-В следующем посте опишу, как оно вообще, и так ли это страшно, больно, дорого, и прочее.
-На второй фотке я уже подзажил, и пересаженные волосы начинают выпадать - это т.н. Shedding phase, во время которой вы теряете все пересаженные волосы и два месяца ходите еще более плешивым, чем обычно 
- но также это знак, что все прошло хорошо.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/549264926_4345159145714993_442964081326667631_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=BE0zMAE78usQ7kNvwFU3NNU&amp;amp;_nc_oc=AdqKqHoUrF1UQZFoy83VeGpMqP0Q13TdigNdJzontpj3BFTyvtJxH5nJbzq-jUTK0GA&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=IjtOHs7kV_Vhzbz8zZos5w&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3NgeQmFS1d1s7YAw2uICZaNU96sidrjJTPpaLGvJsHrA&amp;amp;oe=69DBA562" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/550866468_4345159142381660_6741917927672389234_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=109&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=fboAscRgragQ7kNvwEJdHFJ&amp;amp;_nc_oc=AdrGUQBcq0VIfPI9xec7EVtitFEb_BSULyH80j7TbwxW_k2lM0AGXuozyQWwfEfSzuE&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=IjtOHs7kV_Vhzbz8zZos5w&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0Yt-VhOcyE8kD7KxBlRIToersDK1ay5Oaz68UL_ZnoFg&amp;amp;oe=69DB929E" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02XiXU6vkKBbWPpATtpUHbvGcDB8o4xHGCk96aC56vn3TsNtDR8tA9a1sACQSRPxFVl</link>
-      <guid isPermaLink="false">pfbid02XiXU6vkKBbWPpATtpUHbvGcDB8o4xHGCk96aC56vn3TsNtDR8tA9a1sACQSRPxFVl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/557079584_4354323721465202_4758784612872997593_n.jpg?stp=cp6_dst-jpg_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=WBXIkGTfnoIQ7kNvwHTwZXs&amp;_nc_oc=Adqd9KUeVtR_lKZACtfaKFKrwktdddRZ-E5sd5bu1IeNqpsQC2pKlfub1L8dsD3BReo&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=nUAeN4ZbEzL6Wb1tjRaIaA&amp;_nc_ss=7a3a8&amp;oh=00_Af33o7zKyhH97Vt-nOG6gpn-2XdnHhsq3G1d-rcxImjZWQ&amp;oe=69DB944F" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Закрываю компанию.
-Когда проиграл, то надо признавать, что проиграл.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/557079584_4354323721465202_4758784612872997593_n.jpg?stp=cp6_dst-jpg_tt6&amp;amp;_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=WBXIkGTfnoIQ7kNvwHTwZXs&amp;amp;_nc_oc=Adqd9KUeVtR_lKZACtfaKFKrwktdddRZ-E5sd5bu1IeNqpsQC2pKlfub1L8dsD3BReo&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=nUAeN4ZbEzL6Wb1tjRaIaA&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af33o7zKyhH97Vt-nOG6gpn-2XdnHhsq3G1d-rcxImjZWQ&amp;amp;oe=69DB944F" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0kk9jmB22AXXr4nWWXdbc2XT4t26a2JePD8XGPFZQqP7LpEU8krNW9GdGdRDjhmTul</link>
-      <guid isPermaLink="false">pfbid0kk9jmB22AXXr4nWWXdbc2XT4t26a2JePD8XGPFZQqP7LpEU8krNW9GdGdRDjhmTul</guid>
-    <content:encoded>&lt;p&gt;https://startupsummit.ru
-Вот тут на финале Sber500 буду рассказывать про ИИ в текущей и новой версии Oumua. 
-Ну а про что я еще могу рассказывать, правильно, у меня одна пластинка.
-Приходите!
-Я правда не знаю, как, потому что это закрытая история по приглашениям с важными дядьками в костюмах. 
-Даже я буду в костюме&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
-      <guid isPermaLink="false">4a3277ba078eef79</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/550588736_4346311495599758_4854607966004415911_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=fQEZINqvWNAQ7kNvwFW-9UY&amp;_nc_oc=AdoVIibpoyTJL5PcG9f9CLavYRFmHl-oPXHvKkLsr1D238AP_UMV0P2aLIpJW_gd2wA&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=5F9wM2ltg75LUVATiBtMkw&amp;_nc_ss=7a3a8&amp;oh=00_Af1V1TBOYNMOWF6KlxYgnoowtPpIsLFGuZatzr9duZQYww&amp;oe=69DB73AC" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Потихоньку подбираюсь к анонсу нового девайса. Oumua, разумеется, никуда не девается, про тренажер будет только больше новостей ближайшее время: про заявку в FDA, дистрибуцию в России (at last), новую версию устройства с чекапом здоровья по выдоху, etc. 
-Сказавши это 
- новый девайс — это «биохакерский мультитул», который за счет Кучи датчиков (12 разных ТИПОВ датчиков, работающих в связке друг с другом), объединенных в одном форм-факторе, снимает с юзера беспрецедентное количество неинвазивных данных о здоровье. 
-Данные снимаются практически с каждой важной системы организма с помощью несложных, интуитивно понятных тестов. И выдает… ох, чего он только не выдает, но ближе всего это к «индивидуальному чекапу здоровья в любой момент в карманном форм-факторе по цене шоколадки». 
-Это не все - с подключаемыми модулями (адд-онами) мы планируем добавлять более «инвазивные» модули вроде анализа крови и мочи.
-И это все еще не все 
- мультитул также можно будет синхронизировать с данными, поступающими от Гармин, Apple, Oura и Whoop. 
-И, разумеется, в центре этого всего будет AI, который будет искать пересечения всех метрик со всеми остальными метриками, и тренироваться выдавать о вас всякое супер-интересное, точное, важное для вас, и, самое главное, предиктивное.
-Так вот: этой штуке нужно НАЗВАНИЕ. 
-У меня есть несколько идей, но вы пишите ваши варианты в комментариях — самый крутой вариант получит тренажер Oumua с доставкой в любую точку мира.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/550588736_4346311495599758_4854607966004415911_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=fQEZINqvWNAQ7kNvwFW-9UY&amp;amp;_nc_oc=AdoVIibpoyTJL5PcG9f9CLavYRFmHl-oPXHvKkLsr1D238AP_UMV0P2aLIpJW_gd2wA&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=5F9wM2ltg75LUVATiBtMkw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1V1TBOYNMOWF6KlxYgnoowtPpIsLFGuZatzr9duZQYww&amp;amp;oe=69DB73AC" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0dBg1EhPzbphnTtnumXjoQvn7Kw7m75L3EHqUdgd3RGj7NVSGRiX6ALYQiemiCC66l</link>
-      <guid isPermaLink="false">pfbid0dBg1EhPzbphnTtnumXjoQvn7Kw7m75L3EHqUdgd3RGj7NVSGRiX6ALYQiemiCC66l</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/544799985_4329657440598497_247128218303648171_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=0cnnRbUTVPYQ7kNvwFB9DTk&amp;_nc_oc=AdqHvvUXnShsir4yaCFFnRG_mbWzg_vPni30jLlGVyPlhMnkpxq1rWYCLHhrNAgS-Qs&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=EC3URFyxoFlTaVvm_yNaSw&amp;_nc_ss=7a3a8&amp;oh=00_Af0ggc1eA0wnxd4oZj4K46Ofjj6XU8dzXDBIgZDnte036A&amp;oe=69DB8A79" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;10+ лет до того, как заняться хардвером, я был пиарщиком. Вот список, что пришлось освоить, выучить или вспомнить, чтобы заниматься хардвером:
-- CAD: достаточно понимать, на что вообще смотришь, моделировать опционально;
-- C: у любого электронного девайса есть прошивка, которая пишется на сях; я как-то криво-косо знал его в школе, а в универе скорее забыл, чем доучил, пришлось помучиться; 
-- Doodling: когда кроме идеи еще ничего нет, словами объясняться очень долго, поэтому в идеале промышленному дизайнеру вместе с ТЗ надо отдавать первичные эскизы — а где их взять? Только самому рисовать;
-- Упрощенный китайский: я знаю ну примерно 100 важных мне иероглифов, типа «спасибо», «когда будет готово», «не работает», и «дорого»;
-- Сорсинг и заказ сэмплов: есть куча сайтов, в основном китайских, где можно делать аутрич к фабрикам и подрядчикам, если уже поставлен quality control и прописаны регламенты тестов и приемки, можно здорово экономить время на аутсорсинге сорсинга (простите); 
-- Школьная математика: внезапно выяснилось, что тот (невезучий) человек, которому блять из всех пригодились логорифмы и матрицы, это я. Наши датчики отдают raw data, которые приводят в божеский вид достаточно сложные формулы с кучей коэффициентов, подтяжек, аппроксимаций и прочей ерунды; а я кстати терпеть не могу математику, у меня что-то вроде легкой дислексии, и если там больше 2 цифр подряд, особенно одинаковых, я все, потерялся;
-- Элементарная физика: в школе я физику знал из рук вон плохо, потому что у нас была злобная уставшая от жизни училка, которая ну мягко говоря не верила в мой интеллектуальный потенциал, зато в вузе нам преподавали легендарные профессоры Самедов и Колдобский;
-- Законодательство страны и отдельно штата Делавер;
-- Топология и трассировка печатных плат: сначала я этим пренебрегал, и считаю самой большой и дорогой ошибкой на дистанции;
-- Логистика: брокеры, карго земля/воздух, таможенное оформление в разных странах, DDU/DDP списки;
-Это совсем не все, но почти все из главного. Сейчас я подтягиваю знания по перформанс-маркетингу и UGC, чтобы лучше понимать, почему мы быстрее или медленнее масштабируемся.
-Как-то так, спрашивайте.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/544799985_4329657440598497_247128218303648171_n.jpg?_nc_cat=105&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=0cnnRbUTVPYQ7kNvwFB9DTk&amp;amp;_nc_oc=AdqHvvUXnShsir4yaCFFnRG_mbWzg_vPni30jLlGVyPlhMnkpxq1rWYCLHhrNAgS-Qs&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=EC3URFyxoFlTaVvm_yNaSw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0ggc1eA0wnxd4oZj4K46Ofjj6XU8dzXDBIgZDnte036A&amp;amp;oe=69DB8A79" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
-      <guid isPermaLink="false">94a0db773a0740d9</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/545156106_4330812270483014_5950474143070625002_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=ipOsoGFrAPsQ7kNvwEzF9UG&amp;_nc_oc=AdqM3tG4XVhTcyTb6xWrcCGyfkMx7hlbPzHiwXsMbeHg7vboCI7v_MmMrPkIWrtSLcc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=EC3URFyxoFlTaVvm_yNaSw&amp;_nc_ss=7a3a8&amp;oh=00_Af2mQXurreViXRd8Unz-sNgEhWioyLlzMmFj3r_HxAwdiA&amp;oe=69DB96AF" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Новая коробка (тестовая)&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/545156106_4330812270483014_5950474143070625002_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=103&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=ipOsoGFrAPsQ7kNvwEzF9UG&amp;amp;_nc_oc=AdqM3tG4XVhTcyTb6xWrcCGyfkMx7hlbPzHiwXsMbeHg7vboCI7v_MmMrPkIWrtSLcc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=EC3URFyxoFlTaVvm_yNaSw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2mQXurreViXRd8Unz-sNgEhWioyLlzMmFj3r_HxAwdiA&amp;amp;oe=69DB96AF" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
-      <guid isPermaLink="false">742f6afc65cdc1f0</guid>
-    <content:encoded>&lt;p&gt;Через недельку выкатим новый сайт - просто космолет. Одна из важных штук для беспроблемного масштабирования любого d2c продукта. 
-А еще месяца через два новое приложение - в одной дизайн-системе с сайтом, в 100 раз более удобное, логичное, быстрое, полезное, etc. Тут то оно кстати и перестанет быть бесплатным 
-К концу года также надеюсь запустить нечто под названием Oumua Ultimate, это будет hi-end версия девайса, которая будет уметь штуки, которые не умеет ни один продукт на рынке longevity/healthtech. 
-Это будет отдельный анонс с медиа, инфлами, и прочим подобным.&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
-      <guid isPermaLink="false">3b59d6a4bd7915f5</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/545866383_4331715597059348_7269884735192105103_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=tndBhe83RgIQ7kNvwHgxdA8&amp;_nc_oc=AdrUfVPG_2ELpf_TBSC7urX_zL_U8VHPsRioSVwiqYnpk1GolJLEC3k-eHLtI7UPcDc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=QoQHRsoIVpMaqex_fwxUpQ&amp;_nc_ss=7a3a8&amp;oh=00_Af0PcKrsNsNvbYgRTe8ZAv8oeEyjErofaOt4W7A5za0IDw&amp;oe=69DB7338" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;У Oumua есть кнопка, которая по тапу загорается, дает обратную хептик связь в палец, и мигает, это обеспечивают два простых ярких диода. 
-Раньше обеспечивали два простых, а теперь - два UV диода, которые позволяют переключать свет с обычного голубого на UV и обратно. 
-Благодаря этому, а также чуть другому расположению самих диодов, мы можем программно добавить «режим стерилизации», где весь внутренний контур устройства освечивается UV светом и практически полностью стерилизуется за 10 минут. 
-Особенно это актуально для центральной части, куда может не добраться вода при мытье под краном. 
-Так что вот, теперь тренажер еще и сам себя моет.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/545866383_4331715597059348_7269884735192105103_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=tndBhe83RgIQ7kNvwHgxdA8&amp;amp;_nc_oc=AdrUfVPG_2ELpf_TBSC7urX_zL_U8VHPsRioSVwiqYnpk1GolJLEC3k-eHLtI7UPcDc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=QoQHRsoIVpMaqex_fwxUpQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0PcKrsNsNvbYgRTe8ZAv8oeEyjErofaOt4W7A5za0IDw&amp;amp;oe=69DB7338" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
-      <guid isPermaLink="false">acd84cd2faf07dca</guid>
-    <content:encoded>&lt;p&gt;Дайте плиз хорошего быстрого помогатора по регистрации:
-- дизайн-патента
-- топологии платы
-- торговой марки
-В России или ЕАЭС.&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02Sbh9e5Nssf2oxp44EadCTRUrePF2RbjKPX2ioYLTao4Pjf9K1VeAVC6r5EH6x77Bl</link>
-      <guid isPermaLink="false">pfbid02Sbh9e5Nssf2oxp44EadCTRUrePF2RbjKPX2ioYLTao4Pjf9K1VeAVC6r5EH6x77Bl</guid>
-      <pubDate>Wed, 08 Apr 2026 17:05:43 +0000</pubDate>
-    <content:encoded>&lt;p&gt;Шо вы думаете по поводу идеи, что у отдельных органов тела, ну, кроме мозга, есть что-то вроде собственной агентности и что-то вроде собственного сознания? 
-И мы, как официальные представители мозга в нашем теле, не на 100% в курсе, что «думает» наша печень или наша поджелудочная. 
-Не потому, что тело нас «изолирует» и бережет от этого знания, а потому что мы одна распределенная система внутри распределенной системы побольше, и не на…&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid024nVdHQQvYyJyAAS21mBm3Nazm8hULkSJwteXoCS3SzXBHkSnD95zQJfyU4EXAdxAl</link>
-      <guid isPermaLink="false">pfbid024nVdHQQvYyJyAAS21mBm3Nazm8hULkSJwteXoCS3SzXBHkSnD95zQJfyU4EXAdxAl</guid>
-      <pubDate>Wed, 08 Apr 2026 17:05:43 +0000</pubDate>
-    <content:encoded>&lt;p&gt;Ребята, а кто-нибудь занимался или занимается пчелами/осами? Инсектолог?
-Или, возможно, у вас есть знакомый крутой ботаник, кто работал с микробиологией лиственных (это связанные вопросы, но я знаю, что ботаники не занимаются пчелами)?
-В обоих случаях, пожалуйста, тегните или напишите мне&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0m5owY89ex546pEddBW6aCtb76nM45Tds7fs7oeG6mTMvitK4aoWpYzV1N6hmvquml</link>
-      <guid isPermaLink="false">pfbid0m5owY89ex546pEddBW6aCtb76nM45Tds7fs7oeG6mTMvitK4aoWpYzV1N6hmvquml</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/535672058_4311158039115104_5373448486908996596_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=9VG20ZvkPj4Q7kNvwF_oJCt&amp;_nc_oc=AdpaXaNgmA6okG2wyyLcmNa1HX8ecNvGBENvw6w4QhI_-NnRpmvtTdIqwBWyRIOby74&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=6E41yU7EVpNuuiGB5T-nsQ&amp;_nc_ss=7a3a8&amp;oh=00_Af1eCyNDAfVGiLaqZ7WaDUXWXy6C5HNyZSxDGek846pAng&amp;oe=69DC46BF" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 17:05:43 +0000</pubDate>
-    <content:encoded>&lt;p&gt;Behold: Терентий.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/535672058_4311158039115104_5373448486908996596_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=110&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=9VG20ZvkPj4Q7kNvwF_oJCt&amp;amp;_nc_oc=AdpaXaNgmA6okG2wyyLcmNa1HX8ecNvGBENvw6w4QhI_-NnRpmvtTdIqwBWyRIOby74&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=6E41yU7EVpNuuiGB5T-nsQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1eCyNDAfVGiLaqZ7WaDUXWXy6C5HNyZSxDGek846pAng&amp;amp;oe=69DC46BF" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02tAf6BLZe3dvFYmjbxz8YV6MxtKwHXtYTLzSYteGhPSDFRFKao1ugyLHUZBkLfpuul</link>
-      <guid isPermaLink="false">pfbid02tAf6BLZe3dvFYmjbxz8YV6MxtKwHXtYTLzSYteGhPSDFRFKao1ugyLHUZBkLfpuul</guid>
-      <pubDate>Wed, 08 Apr 2026 17:05:43 +0000</pubDate>
-    <content:encoded>&lt;p&gt;Выглядит, как будто производство физического b2c продукта — это пипец какая многоножка, и нужно учесть миллион факторов, чтобы на выходе получилось что-то экономически эффективное.
-На самом деле, есть куча «шума» вроде сертификации, логистики, таможенного законодательства, торговых марок, патентов, etc. Выглядит важным, является важным. Не является критичным.
-И есть 2 реально ключевых метрики, которые либо OK, и у вас есть бизнес, либо не OK, и это не бизнес.
- 1. Себестоимость производства
- 2. Эластичность спроса по этой цене
-Всё.
-Либо вы можете ДЕШЕВО произвести X десятков/сотен тысяч юнитов в год, и ДОРОГО их продать, либо нет. К этой формуле можно сводить и объем рынка, и конкурентов, и спрос, и географию, и каналы дистрибуции, и вообще всё остальное.
-И решения у этих типовых проблем также типовые и очень простые. Если интересно, я, так и быть, поделюсь этим сакральным знанием на две строчки (актуально это, напомню, для физических продуктов).&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid022YXwkEH7nuVZw2e2eJmCd7QtbFP6PdtyUuR4qRaCvKh2fAzQ8ybJ4LTRou8eBzqCl</link>
-      <guid isPermaLink="false">pfbid022YXwkEH7nuVZw2e2eJmCd7QtbFP6PdtyUuR4qRaCvKh2fAzQ8ybJ4LTRou8eBzqCl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/538314174_4318332885064286_7399090544831176153_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=nptYVL_uhmAQ7kNvwFrs1w8&amp;_nc_oc=AdqJNlPbPxznm0QjOzon5VLFAlrpRh1apRUNlNf4o0icxJHk5lAdNK42FqUIX3ygu9Y&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=MC9lVg47TpV81IJSiHU5TQ&amp;_nc_ss=7a3a8&amp;oh=00_Af2aLYHAj7kvyKhiM9OUD7uVYRW32eu9eeAPx8n2-mvm7A&amp;oe=69DC4F93" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 17:05:43 +0000</pubDate>
-    <content:encoded>&lt;p&gt;Завтра вот тут рассказываю про Oumua, приходите.
-https://leader-id.ru/events/562653 регистрация тут (я не знаю, что это за платформа, сорри)&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/538314174_4318332885064286_7399090544831176153_n.jpg?_nc_cat=101&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=nptYVL_uhmAQ7kNvwFrs1w8&amp;amp;_nc_oc=AdqJNlPbPxznm0QjOzon5VLFAlrpRh1apRUNlNf4o0icxJHk5lAdNK42FqUIX3ygu9Y&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=MC9lVg47TpV81IJSiHU5TQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2aLYHAj7kvyKhiM9OUD7uVYRW32eu9eeAPx8n2-mvm7A&amp;amp;oe=69DC4F93" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0CGPQdpsgQ1fpXVAaM4DdHFRqgJrqjnoPRLnMB6gFrcbDfgS7Q6b9a3K4siXaiWdrl</link>
-      <guid isPermaLink="false">pfbid0CGPQdpsgQ1fpXVAaM4DdHFRqgJrqjnoPRLnMB6gFrcbDfgS7Q6b9a3K4siXaiWdrl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/540520785_4321408098090098_3960056050701632794_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=Y4ovTu2QPmgQ7kNvwGejfxI&amp;_nc_oc=AdpdehqRvZ5wTP4GJZBwEHFsyczjf5BB_SH0Xp-Fu3CHtmRucvndbxlKER93Bypn2mI&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=MC9lVg47TpV81IJSiHU5TQ&amp;_nc_ss=7a3a8&amp;oh=00_Af0U-3XdXEYsnwB__GmJp0FY2MKGpLQkF9acjqcqOR8zcQ&amp;oe=69DC6966" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 17:05:43 +0000</pubDate>
-    <content:encoded>&lt;p&gt;Я отправил заявку на одну там визу, и теперь жду, как чего.
-Параллельно мы ждем последние ISO тесты (это очень долго и дорого), чтобы отправить заявку на сертификацию FDA, остальной пакет весь собрали и утрясли, представителя нашли, классификацию подобрали, etc.
-Ситуация следующая:
-- виза: 2714 страниц, 15 кг
-- заявка FDA: 80 страниц, 50-60 еще тесты будут; ~ 0.5 кг
-… и вот меня там спрашивают, кто в курсе, что мы сертифицируемся, типа: сложно наверное, вы же без юристов пишете (на самом деле мы консультируемся немножко, просто основное собирали сами). 
-А я не знаю, как правильно сказать, потому что выглядит, как будто выделываюсь, но… 
-после визы заявка на FDA, любая научная статья, фундаментальная лекция, или там докторская диссертация — это просто легкая прогулка на свежем воздухе. 
-Это изи, так сказать, катка, понимаете.
-Dare I say, ни до, ни после я столько с данными не работал, и наверное уже работать не буду. 
-Под конец там не то что выгорание, - я слова такого не знаю, на каких тягах я это дописывал 
- нервное истощение чисто тихонько в дверь стучалось и такое «Филипп Михайлович, у вас фенибут стынет, я перезаварю?». - Перезаварите, голубчик. 
-Ну вот, сейчас уже, конечно, все в порядке. 
-FDA это так, ерунда, детский лепет. 
-￼&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/540520785_4321408098090098_3960056050701632794_n.jpg?_nc_cat=104&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=Y4ovTu2QPmgQ7kNvwGejfxI&amp;amp;_nc_oc=AdpdehqRvZ5wTP4GJZBwEHFsyczjf5BB_SH0Xp-Fu3CHtmRucvndbxlKER93Bypn2mI&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=MC9lVg47TpV81IJSiHU5TQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af0U-3XdXEYsnwB__GmJp0FY2MKGpLQkF9acjqcqOR8zcQ&amp;amp;oe=69DC6966" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid05yqtqKZyW15uDXVwHeCjP9y3zGNEebYBHzM23vpsByzjdUyJTXxWf8tSKBQNePPel</link>
-      <guid isPermaLink="false">pfbid05yqtqKZyW15uDXVwHeCjP9y3zGNEebYBHzM23vpsByzjdUyJTXxWf8tSKBQNePPel</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/543386632_4328678977363010_3145077852559571589_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=0EkuVUCAzSIQ7kNvwEuuE_f&amp;_nc_oc=AdqpNz_PoEcvnSDDpMusRbG8eE5ODFFanrM_Eonu2sIbpS9P7V4PAn1lRV-Fn-Zitmc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=WDn3eOmCM-1Hj-cAeSc6AQ&amp;_nc_ss=7a3a8&amp;oh=00_Af3PmhBJRd5_iVK7h9AnnL_E2tF0wc9fMzNEMajmk0Ppfw&amp;oe=69DC5309" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 17:05:43 +0000</pubDate>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid029XV5kVCLM7BYahzy4vcKyKkfLZmNW4rg1n93XkskG9Bt11vWr71pAGTgtWwgbWrPl</link>
+      <guid isPermaLink="false">pfbid029XV5kVCLM7BYahzy4vcKyKkfLZmNW4rg1n93XkskG9Bt11vWr71pAGTgtWwgbWrPl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/543386632_4328678977363010_3145077852559571589_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=0EkuVUCAzSIQ7kNvwEuuE_f&amp;_nc_oc=AdqpNz_PoEcvnSDDpMusRbG8eE5ODFFanrM_Eonu2sIbpS9P7V4PAn1lRV-Fn-Zitmc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=FShG1pyGV2Mdj2NFTkWQzg&amp;_nc_ss=7a3a8&amp;oh=00_Af1AqIR78uUgjJJmyPrf2-zUXQfzZ_5XRv5_3A9sp0Jd6Q&amp;oe=69DBAA49" length="0" type="image/jpeg" />
     <content:encoded>&lt;p&gt;Сейчас я вам расскажу, как быстро войти в состояние придумывания, изобретения, решения проблем, озарений, - вот этого всего. Как, в целом, когнитивно ожить немножко.
 Путь к креативности, активному созиданию и эврикам лежит через скуку.
 Почаще скучайте. Не берите с собой в зал наушники, не слушайте подкаст фоном, отложите телефон после 7 вечера и оставьте 2 emergency контакта, которые могут прозвониться. Не смотрите сериал, не играйте в приставку, не заказывайте доставку из рестика. Я не про «цифровой детокс», а про общую «пресность». Прекратите - аллегорически - прыгать каждую секунду с парашютом.
@@ -229,24 +239,19 @@ FDA это так, ерунда, детский лепет.
 Оригинальные мысли любят тишину в голове, — не «отсутствие мыслей», а тупо тишину в эфире, отсутствие постоянного чужого входящего информационного фона. 
 И будут вам интересные новые мысли, которым вы сами удивитесь.
 P.S. если разговор сразу строить про «аскезу», все интуитивно думают про духовную, и пытаются решать проблему не с того конца (нам с вами до духовной, как до Луны пешком, современный человек атрофировал эту мышцу, она долго нарабатывается, забейте). 
-Физическая аскеза прекрасно работает, и не требует от человека знания диалектики и законов духовной жизни.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/543386632_4328678977363010_3145077852559571589_n.jpg?_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=0EkuVUCAzSIQ7kNvwEuuE_f&amp;amp;_nc_oc=AdqpNz_PoEcvnSDDpMusRbG8eE5ODFFanrM_Eonu2sIbpS9P7V4PAn1lRV-Fn-Zitmc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=WDn3eOmCM-1Hj-cAeSc6AQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3PmhBJRd5_iVK7h9AnnL_E2tF0wc9fMzNEMajmk0Ppfw&amp;amp;oe=69DC5309" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+Физическая аскеза прекрасно работает, и не требует от человека знания диалектики и законов духовной жизни.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/543386632_4328678977363010_3145077852559571589_n.jpg?_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=0EkuVUCAzSIQ7kNvwEuuE_f&amp;amp;_nc_oc=AdqpNz_PoEcvnSDDpMusRbG8eE5ODFFanrM_Eonu2sIbpS9P7V4PAn1lRV-Fn-Zitmc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=FShG1pyGV2Mdj2NFTkWQzg&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1AqIR78uUgjJJmyPrf2-zUXQfzZ_5XRv5_3A9sp0Jd6Q&amp;amp;oe=69DBAA49" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02h37iRNKpT9u6h7ZNpGmueF3kPjemtJKNSmhnUgd9ttAS4y8Q9wCKtFopzH8PiH9Zl</link>
-      <guid isPermaLink="false">pfbid02h37iRNKpT9u6h7ZNpGmueF3kPjemtJKNSmhnUgd9ttAS4y8Q9wCKtFopzH8PiH9Zl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/544799985_4329657440598497_247128218303648171_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=0cnnRbUTVPYQ7kNvwFB9DTk&amp;_nc_oc=AdqHvvUXnShsir4yaCFFnRG_mbWzg_vPni30jLlGVyPlhMnkpxq1rWYCLHhrNAgS-Qs&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=W3c7Y1YWjKltsZYZE4xbZA&amp;_nc_ss=7a3a8&amp;oh=00_Af11ofmVk41XFFMwoH15B5tsP4D4BKGcBF91e9fKkvZQMQ&amp;oe=69DC6B79" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 17:05:43 +0000</pubDate>
-    <content:encoded>&lt;p&gt;10+ лет до того, как заняться хардвером, я был пиарщиком. Вот список, что пришлось освоить, выучить или вспомнить, чтобы заниматься хардвером:
-- CAD: достаточно понимать, на что вообще смотришь, моделировать опционально;
-- C: у любого электронного девайса есть прошивка, которая пишется на сях; я как-то криво-косо знал его в школе, а в универе скорее забыл, чем доучил, пришлось помучиться; 
-- Doodling: когда кроме идеи еще ничего нет, словами объясняться очень долго, поэтому в идеале промышленному дизайнеру вместе с ТЗ надо отдавать первичные эскизы — а где их взять? Только самому рисовать;
-- Упрощенный китайский: я знаю ну примерно 100 важных мне иероглифов, типа «спасибо», «когда будет готово», «не работает», и «дорого»;
-- Сорсинг и заказ сэмплов: есть куча сайтов, в основном китайских, где можно делать аутрич к фабрикам и подрядчикам, если уже поставлен quality control и прописаны регламенты тестов и приемки, можно здорово экономить время на аутсорсинге сорсинга (простите); 
-- Школьная математика: внезапно выяснилось, что тот (невезучий) человек, которому блять из всех пригодились логорифмы и матрицы, это я. Наши датчики отдают raw data, которые приводят в божеский вид достаточно сложные формулы с кучей коэффициентов, подтяжек, аппроксимаций и прочей ерунды; а я кстати терпеть не могу математику, у меня что-то вроде легкой дислексии, и если там больше 2 цифр подряд, особенно одинаковых, я все, потерялся;
-- Элементарная физика: в школе я физику знал из рук вон плохо, потому что у нас была злобная уставшая от жизни училка, которая ну мягко говоря не верила в мой интеллектуальный потенциал, зато в вузе нам преподавали легендарные профессоры Самедов и Колдобский;
-- Законодательство страны и отдельно штата Делавер;
-- Топология и трассировка печатных плат: сначала я этим пренебрегал, и считаю самой большой и дорогой ошибкой на дистанции;
-- Логистика: брокеры, карго земля/воздух, таможенное оформление в разных странах, DDU/DDP списки;
-Это совсем не все, но почти все из главного. Сейчас я подтягиваю знания по перформанс-маркетингу и UGC, чтобы лучше понимать, почему мы быстрее или медленнее масштабируемся.
-Как-то так, спрашивайте.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/544799985_4329657440598497_247128218303648171_n.jpg?_nc_cat=105&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=0cnnRbUTVPYQ7kNvwFB9DTk&amp;amp;_nc_oc=AdqHvvUXnShsir4yaCFFnRG_mbWzg_vPni30jLlGVyPlhMnkpxq1rWYCLHhrNAgS-Qs&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=W3c7Y1YWjKltsZYZE4xbZA&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af11ofmVk41XFFMwoH15B5tsP4D4BKGcBF91e9fKkvZQMQ&amp;amp;oe=69DC6B79" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
+      <guid isPermaLink="false">430a371f9a147439</guid>
+      <pubDate>Wed, 08 Apr 2026 18:14:17 +0000</pubDate>
+    <content:encoded>&lt;p&gt;1. Сделали новую трассировку основной платы тренажера. Красота! Было просто неплохо, а теперь еще и эстетично.
+2. Я оказывается ТАКАЯ толкушка: мы все это время могли делать коробку девайса двухуровневой, и сэкономить примерно 50% (!) в погонных метрах. Это минус 30-40% стоимости на доставках внутри США, 50-60% минус на доставке карго, минимум 30% на хранении…
+Короче. Срочно перегруппируемся в воздухе - благо, еще успеваем.&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid0CsSf5eWEZhMpj4aX8QLQZGMgeCUypSe7gL5UwJ4iHhTq1JbSWmKSrUP8cw37QxG9l</link>
+      <guid isPermaLink="false">pfbid0CsSf5eWEZhMpj4aX8QLQZGMgeCUypSe7gL5UwJ4iHhTq1JbSWmKSrUP8cw37QxG9l</guid>
+      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/548414578_4340149756215932_364950515963601506_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=zrsAHw4UyS4Q7kNvwHJbhe7&amp;_nc_oc=AdqC18Uuy8S9Iv4-4FmrYI5K_yNZpZiiIYevnp2ZqQ37t8Izp3ESpLwmuE3_V8XzplI&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=3uS3k8xg6mSZZYf8ryl7Fw&amp;_nc_ss=7a3a8&amp;oh=00_Af3PiDt_6f2Kft0WXcEM03Kq2JVjda8vJgwtxyIDe_b5Lw&amp;oe=69DC84AE" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 18:14:17 +0000</pubDate>
+    <content:encoded>&lt;p&gt;Я человек простой. Если вы меня спросите, где я играю в паддл, я вам отвечу, что мы не подружимся.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/548414578_4340149756215932_364950515963601506_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=110&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=zrsAHw4UyS4Q7kNvwHJbhe7&amp;amp;_nc_oc=AdqC18Uuy8S9Iv4-4FmrYI5K_yNZpZiiIYevnp2ZqQ37t8Izp3ESpLwmuE3_V8XzplI&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=3uS3k8xg6mSZZYf8ryl7Fw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3PiDt_6f2Kft0WXcEM03Kq2JVjda8vJgwtxyIDe_b5Lw&amp;amp;oe=69DC84AE" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
   </channel>
 </rss>
