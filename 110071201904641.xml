@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>110071201904641 — Facebook RSS</title>
     <link>https://www.facebook.com/110071201904641</link>
@@ -7,58 +7,191 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 01:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:14:21 +0000</lastBuildDate>
     <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02S7qw2PvM951me8RJ7Rvb7j1CiR35QwMVdVD3FZpg6o8dZ62qiLCBKbHNCiH6jmjol</link>
-      <guid isPermaLink="false">pfbid02S7qw2PvM951me8RJ7Rvb7j1CiR35QwMVdVD3FZpg6o8dZ62qiLCBKbHNCiH6jmjol</guid>
-    </item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02g7iFMnypoNfHenkKn4RucWoNS4HnJTWk6fHMTo86desgsL52eptTGvy4DKwbNf78l</link>
+      <guid isPermaLink="false">pfbid02g7iFMnypoNfHenkKn4RucWoNS4HnJTWk6fHMTo86desgsL52eptTGvy4DKwbNf78l</guid>
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;«Это как будто тебя бросили в зону шокирующей компетентности». Марк Андриссен о работе в одной из компаний Илона Маска:
+«Все там чрезвычайно компетентны... А если нет, Илон это моментально чует и увольняет».
+«Лучшие инженеры мира хотят работать на него, потому что он — едва ли не единственный CEO такого уровня, который способен работать с ними на равных».…&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid0uAsFFM6aTTQRNFSsjcjcUDwLTggnf59prjZy9dqURXVsydmDvVqnjxYDAontgTWHl</link>
-      <guid isPermaLink="false">pfbid0uAsFFM6aTTQRNFSsjcjcUDwLTggnf59prjZy9dqURXVsydmDvVqnjxYDAontgTWHl</guid>
-    </item>
-    <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid0276bxVowxupH9QyCNQXWUegGuux7EzxPbqqvJLnGBqHxkPjvRLJ1h4J9zVkiNPYVpl</link>
-      <guid isPermaLink="false">pfbid0276bxVowxupH9QyCNQXWUegGuux7EzxPbqqvJLnGBqHxkPjvRLJ1h4J9zVkiNPYVpl</guid>
-    </item>
-    <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid04H7jue1WaKyXgHjKL8sbWaKtix1zEK66XwERiQFABN1ZsRRfJLcNwj1TabH2Vj6yl</link>
-      <guid isPermaLink="false">pfbid04H7jue1WaKyXgHjKL8sbWaKtix1zEK66XwERiQFABN1ZsRRfJLcNwj1TabH2Vj6yl</guid>
-    </item>
-    <item>
-      <link>https://www.facebook.com/profile.php?id=110071201904641</link>
-      <guid isPermaLink="false">520eec17fc0f79e2</guid>
-    </item>
-    <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02HJ5wChESoWpDXW2CwEtDGGYt9p8HcoHjvFKR5NAc2wYf7aagFZNEjNw7UwMt7x7ol</link>
-      <guid isPermaLink="false">pfbid02HJ5wChESoWpDXW2CwEtDGGYt9p8HcoHjvFKR5NAc2wYf7aagFZNEjNw7UwMt7x7ol</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:03 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02uFTCRQFrBKLDTcS7LEjfSZgwMSWMvJgQBMZLBV3AwWQpJW9FzA7m78CwFCXtUxiql</link>
-      <guid isPermaLink="false">pfbid02uFTCRQFrBKLDTcS7LEjfSZgwMSWMvJgQBMZLBV3AwWQpJW9FzA7m78CwFCXtUxiql</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:03 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid036guNxcGi2KtUHTUW8BMRPEYqsR6wJcE4meNdD5T1X1gE26wuj3g5X8HwtU8ZSBRXl</link>
-      <guid isPermaLink="false">pfbid036guNxcGi2KtUHTUW8BMRPEYqsR6wJcE4meNdD5T1X1gE26wuj3g5X8HwtU8ZSBRXl</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:03 +0000</pubDate>
-    </item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02CVbm3tf9Tcrxonz6AGpr9hgtBqBL18UAw7MkMLHaGqRRDoCVAydtgNeseq4b9eWml</link>
+      <guid isPermaLink="false">pfbid02CVbm3tf9Tcrxonz6AGpr9hgtBqBL18UAw7MkMLHaGqRRDoCVAydtgNeseq4b9eWml</guid>
+      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/653908701_10233853864440867_3559573182762635414_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=siA82Nbr9yoQ7kNvwFQSFOO&amp;_nc_oc=Ado64oB0lXITJHtgNBBbn21y7TdT6s6lAp951uJTNSUT24Mhz4anQhA2JDt6sf-pcCs&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af30clNHK104zZoSa_G4hUuv8LJ34UrnHxoO72-1de0wdQ&amp;oe=69DB73F4" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;Я уже давно отдаю предпочтение Claude Code, а не Codex или Gemini, поскольку он казался мне гораздо более надежным — хотя я и не мог объяснить почему. Теперь же Bullshit Bench от @petergostev предоставляет убедительные цифры, подтверждающие это.
+Этот бенчмарк определяет «чушь» (bullshit) следующим образом: если модели подсунуть ложные исходные данные, замаскированные под профессиональный жаргон, пойдет ли она на поводу у этого потока 
+ чушь) или же даст отпор 
+ истина)?
+И Claude здесь на голову выше остальных!
+Кроме того, эта цель — стремление к истинности — вероятно, вступает в противоречие с той «эмерджентной целью», которая сложилась на площадке Chatbot Arena, а именно: обеспечение «приятного опыта общения». Однако модель, оптимизированная именно под истинность, в конечном счете окажется куда более полезной.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/653908701_10233853864440867_3559573182762635414_n.jpg?_nc_cat=106&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=siA82Nbr9yoQ7kNvwFQSFOO&amp;amp;_nc_oc=Ado64oB0lXITJHtgNBBbn21y7TdT6s6lAp951uJTNSUT24Mhz4anQhA2JDt6sf-pcCs&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af30clNHK104zZoSa_G4hUuv8LJ34UrnHxoO72-1de0wdQ&amp;amp;oe=69DB73F4" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
       <link>https://www.facebook.com/profile.php?id=110071201904641</link>
-      <guid isPermaLink="false">5f34955155103612</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/665476361_3463348287146883_3530135891802171189_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=-qDIKcQqaccQ7kNvwHHLjqX&amp;_nc_oc=AdoZQs1mIFowfZrSWH5yt3sJduR7xpbkv1ArbkEYGRXHkDHwetawH-oopdMRZ7etxng&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=ZcrIF6Yilu0puCnvQRpXnw&amp;_nc_ss=7a3a8&amp;oh=00_Af3k08oLWLWbfdDqFiwieHcg2wnoE8qufwcnuj-osGe2rw&amp;oe=69DB6D41" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 01:17:03 +0000</pubDate>
-    </item>
+      <guid isPermaLink="false">1d639145a0fe66d1</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/654541817_2022680471925723_7252139102575356501_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=DScwcObCJ3wQ7kNvwHAO9wc&amp;_nc_oc=Adp9KDwMer5hvLC4--JENMr29_RoMSRnq1hAVwuiRzPpOMSGbjW9Ac4dpNhEMOPZwpo&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af1-Yzv8afiB57Xn7xsq2l-TgC9UyVyXXhFn1DfhH4l9og&amp;oe=69DB84E7" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;#такМожноБыло  Очень крутой пример: Посмотрите пару минут видео, что увидеть, что он создал. Знать язык не обязательно. Таким людям принадлежит будущее. Источник: https://x.com/toddsaunders/status/2034243420147859716
+&amp;quot;Я знаю, что стартапы в Кремниевой долине не хотят этого слышать…
+Но комбинация человека из прикладной профессии с глубокой отраслевой экспертизой и Claude Code будет бегать кругами вокруг вашего «универсального» софта.
+Сегодня утром я разговаривал с Кори ЛаШансом — механическим инженером, который занимается промышленными трубопроводами на строительстве объектов в Хьюстоне. Обычно он работает с химическими заводами и нефтеперерабатывающими предприятиями, а сейчас также работает с терминалом.
+Несколько дней назад он написал мне в личку, и его история так меня зажгла, что я попросил разрешения записать наш разговор и поделиться им.
+Он построил полноценное приложение, которым каждый день пользуются промышленные подрядчики. Оно читает изометрические чертежи трубопроводов и автоматически извлекает из них количество сварных швов, спецификации материалов и все товарные коды.
+Работа, которая раньше занимала 10 минут на один чертёж, теперь занимает 60 секунд. Оно может обработать 100 чертежей за пять минут, экономя дни работы.
+Его коллеги просто в шоке, и когда он разговаривает с ними, ощущение, будто они говорят на разных языках.
+Его производственный цех использует это каждый день, а всё приложение он сделал за 8 недель. Причём за эти же 8 недель ему пришлось с нуля разобраться с Claude Code, терминалом, VS Code — со всем.
+Моя любимая его фраза была такая:
+«Я буквально сделал всё это без какой-либо внешней помощи, кроме ИИ. Мои любимые инструменты — это скриншоты, пошаговые инструкции и просьба к Claude объяснить всё так, как будто мне пять лет».
+Теперь любой специалист-практик с глубокой экспертизой и готовностью провести несколько выходных с Claude Code — потенциальный основатель софтверной компании.
+Мне не терпится познакомиться с ещё большим количеством таких людей, как Кори.&amp;quot;
+Мой комментарий:
+Это человек никакого отношения к ИТ не имеет, он не продакт, не прогер, не дизайнер - он инженер-механик, но он смог все сделать, потому что «Я буквально сделал всё это без какой-либо внешней помощи, кроме ИИ. Мои любимые инструменты — это скриншоты, пошаговые инструкции и просьба к Claude объяснить всё так, как будто мне пять лет».
+Люди, вам никто более не нужен, чтобы создавать прекрасные и полезные вещи БЫСТРО. Если бы такой софт делали обычным образом, это было 30+ человек, 1 год и несколько миллионов $. SaaS умрет, потому что все, 100% проще делать in-house. Зачем вкладывать деньги в обучение ЧУЖИХ работников, вместо того, чтобы вкладывать в своих и свой IP. Так мыслит любой предприниматель.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/654541817_2022680471925723_7252139102575356501_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=DScwcObCJ3wQ7kNvwHAO9wc&amp;amp;_nc_oc=Adp9KDwMer5hvLC4--JENMr29_RoMSRnq1hAVwuiRzPpOMSGbjW9Ac4dpNhEMOPZwpo&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1-Yzv8afiB57Xn7xsq2l-TgC9UyVyXXhFn1DfhH4l9og&amp;amp;oe=69DB84E7" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/watch/hashtag/%D1%82%D0%B0%D0%BA%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D0%B1%D1%8B%D0%BB%D0%BE?__eep__=6%2F&amp;amp;__cft__[0]=AZZ38WHqWNuqQ1l6Nft98faMYK9dKzSk3f7xFDO7roy5nO3TaR15mbnINtAyK7_pJt5uw-7w_VMe8Z-q_pHTLuA2JFD4fe2fEVlk3-3-pmR3mionoMF9wIAZFTcLEi--mFlaHBQzg441aYWKaAcAKzxV3Tir1QwusHQOdVTli6wz6ieNUmMA3ax0Up8U1Hq00iuNBsXBCajLKGxyAcuRShrR&amp;amp;__tn__=*NK-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid0dx7zbwwAcBDRyZ7WnLoA5xt1VXkr1ncwFWAt7jDYBRfVGKCbBtEXwnCAGDcJRyHMl</link>
-      <guid isPermaLink="false">pfbid0dx7zbwwAcBDRyZ7WnLoA5xt1VXkr1ncwFWAt7jDYBRfVGKCbBtEXwnCAGDcJRyHMl</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:03 +0000</pubDate>
-    </item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02kEzUX5F8hYLFVw677278p19joW8deUKtcwf4NotHPBMyvEDYnAKNy9sViMDAbdZDl</link>
+      <guid isPermaLink="false">pfbid02kEzUX5F8hYLFVw677278p19joW8deUKtcwf4NotHPBMyvEDYnAKNy9sViMDAbdZDl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/654871911_10233873065320877_6866009698745169884_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=idUidP2Pr5AQ7kNvwFYRmsc&amp;_nc_oc=Adox3G3X5U0wqJTcmDlJkyXZfOFMTxR_8ldP6ond381gcVA_N3BcbGy99DACn5uiNYw&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af1LZzGyKlJI4HGy1_Iolaf3abmgeWOt5UKltVnIoKAB9w&amp;oe=69DBA672" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;А как вам это? &amp;quot;Сейчас выхожу на темп выручки около $4,5 млн в год. Всё ещё один основатель + ИИ. Ноль сотрудников.
+Честно: эта неделя меня почти сломала. Никто не готовит тебя к тому, как на самом деле ощущается product-market fit.
+Каждый инфраструктурный партнёр упирается в rate limits.
+Каждый баг, который вообще мог случиться — случился.
+Инвесторы бросают на стол огромные цифры.
+Клиенты заваливают все каналы.
+И всё это одновременно.
+Я просто исчез. Перестал писать в Twitter, перестал в LinkedIn, перестал ходить на подкасты, остановил весь рост.
+Остались только я и мои ИИ-агенты, и мы по одному чинили всё, что ломалось.
+Вот что я понял: с ИИ можно решить всё. Буквально всё.
+Я строю Polsia, чтобы каждый соло-предприниматель получил доступ к тем же инструментам, которые прямо сейчас удерживают меня на плаву. Если я могу выжить в этом в одиночку, значит это можно упаковать и дать всем.
+Будущее — solopreneur + AI. Я живу на краю, чтобы вам не пришлось.&amp;quot; источник https://x.com/Bencera/status/2033719142017339683
+UD: Некоторые не понимают, что источник в Твиттере.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/654871911_10233873065320877_6866009698745169884_n.jpg?_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=idUidP2Pr5AQ7kNvwFYRmsc&amp;amp;_nc_oc=Adox3G3X5U0wqJTcmDlJkyXZfOFMTxR_8ldP6ond381gcVA_N3BcbGy99DACn5uiNYw&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1LZzGyKlJI4HGy1_Iolaf3abmgeWOt5UKltVnIoKAB9w&amp;amp;oe=69DBA672" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid0sp8JFDw56yrbz49TdgEn7AkihY5GWbQJx8yCiA69FShNxazhy9awKyMaFHbgX2vrl</link>
-      <guid isPermaLink="false">pfbid0sp8JFDw56yrbz49TdgEn7AkihY5GWbQJx8yCiA69FShNxazhy9awKyMaFHbgX2vrl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/661326014_10234138984568692_877362736392877590_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=ALv2NOojCjYQ7kNvwE9jEy0&amp;_nc_oc=AdpU4uzd8-yeoF_6AZLquQfwAhq9GMEbraRtp8ldy6npT2f895Zy9WmZQbTWKkrQwag&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=3BmHtRY1TNyXmWVAfHrxCg&amp;_nc_ss=7a3a8&amp;oh=00_Af0-eyGXY7qfg6K7O3fRYnA1ondIqv4-Wyk_glPXzHfbHQ&amp;oe=69DB715E" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 01:17:03 +0000</pubDate>
-    </item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid0SpaeHDLSrawhWwa7iqFFsPsVwaiFhX2fe3Kgp23Cmt3eP6YtjNuMVPxt9G4iDmkPl</link>
+      <guid isPermaLink="false">pfbid0SpaeHDLSrawhWwa7iqFFsPsVwaiFhX2fe3Kgp23Cmt3eP6YtjNuMVPxt9G4iDmkPl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/653374345_10233904998119177_7086324375411091697_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=NeqV2AZOuMQQ7kNvwFTgdh6&amp;_nc_oc=AdoEN6iJS9D8aGWTMHlWEfnhPs8APAPN_jLoiCRd5Fa9k6rl1TnfH20XrgRAEUMIZSc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=3xKV5Dc1ceNLROvYHeCwQQ&amp;_nc_ss=7a3a8&amp;oh=00_Af3jSPPi1ulX4C5dfU00fTbbbm9XnlkwucSSisS5jd2uxQ&amp;oe=69DB8ECA" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;У меня идет большой апдейт по автономности работы ИИ, о чем мы говорим с вами последний месяц. И все, что связано с безопасностью, — это маленькая часть этой проблемы, которая решается по ходу. На самом деле фактически вся эта работа уже почти год идет.
+Но плотно с автономностью я начал работать фактически 2,5–3 месяца назад, когда осознал, что парное программирование — не вариант.
+То есть да, искусственный интеллект многое может делать, но мы же не хотим становиться его рабами, разрабами.
+Мы хотим, чтобы искусственный интеллект делал за нас то, что мы не хотим и не любим. Не наша задача делать работу.
+Наша задача — говорить ему, что делать, чтобы он справлялся сам.
+Много чего исследовано, куча попыток. Вчера был такой первый проблеск в конце туннеля. Нужно провести еще с десяток тестов, но все выглядит очень обнадеживающе.
+По крайней мере, вчера у меня был первый кейс, когда практически с нуля — ну, не совсем с нуля, конечно, там были уже определенные наработки.
+Я начал писать некую книгу где-то еще в апреле–мае прошлого года. Там написано от силы 5%, но она уже хорошо структурирована, и я решил этот проект использовать в качестве теста для того, чтобы полностью искусственный интеллект написал ее автономно.
+Естественно, сейчас мы не будем говорить о качестве книги, это совершенно отдельный вопрос.
+Фокус был на том, чтобы заставить ИИ работать 100% автономно, без остановок, пауз, согласований.
+И вчера эта задача впервые была реализована после многих попыток с разными агентами и подходами. Это стало возможно после определенного инсайта, который был вчера.
+Суть инсайта в том, что обеспечение полноценной автономности — это совершенно самостоятельная задача, никак не связанная с тем, какую именно задачу ИИ решает в рамках автономного выполнения.
+То есть автономность имеет свои метрики, не связанные с метриками качества самой задачи. Для этого простого понимания мне потребовался почти год, и это не так очевидно.
+Почему автономность — это фундамент? Потому что автономность означает способность реализовать цели широкой миссии полностью самостоятельно в условиях неопределенности, недостатка информации, проактивно, при наличии препятствий, а значит, фундаментом автономности является способность к самообучению.
+Если ИИ изначально «глупый», но способен самообучаться, он рано или поздно не просто научится решать любую задачу, но и будет делать это с максимально возможным качеством.
+Если ИИ даже очень «умный», но не способен самообучаться, он не может преодолеть встроенный уровень и не способен наращивать качество решений.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/653374345_10233904998119177_7086324375411091697_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=NeqV2AZOuMQQ7kNvwFTgdh6&amp;amp;_nc_oc=AdoEN6iJS9D8aGWTMHlWEfnhPs8APAPN_jLoiCRd5Fa9k6rl1TnfH20XrgRAEUMIZSc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=3xKV5Dc1ceNLROvYHeCwQQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3jSPPi1ulX4C5dfU00fTbbbm9XnlkwucSSisS5jd2uxQ&amp;amp;oe=69DB8ECA" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=110071201904641</link>
+      <guid isPermaLink="false">2077b4f77354a2d1</guid>
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;Доступен 2-й урок бесплатного курса по Вайбкодингу и не только. Всем отправлено письмо - см. почту.
+Чтобы зайти надо сначала залогинится.
+https://alexeykrol.com/courses/real/lessons/2-52/
+Ищите ваши курсы в разделе меню сайта Ваши курсы:
+https://alexeykrol.com/learnprofile/
+Для общего доступа:
+ Книга по Claude Code - https://github.com/.../2_lessons/claude-code-book/README.md
+Книга по Codex - https://github.com/.../main/2_lessons/codex-book/README.md
+Прикладные Playbooks - https://github.com/.../cour.../tree/main/2_lessons/playbooks
+ Практический гид. Codex vs Claude Code в реальной работе - https://github.com/.../codex-vs-claude-code-in-practice.md&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02roUnDAjw8yBPLBSEngT6d2MEMLXGCrDFckkGfNwCCQzbi4H2H6jEK6ddAFDCasSAl</link>
+      <guid isPermaLink="false">pfbid02roUnDAjw8yBPLBSEngT6d2MEMLXGCrDFckkGfNwCCQzbi4H2H6jEK6ddAFDCasSAl</guid>
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;1. Теперь очень важный момент по поводу собственных данных. Я об этом много писал около года назад и в течение года, поэтому это забылось. Это, наверное, и является ядром всей индустрии. Я объясню.
+Дело в том, что модели и надстройки над ними фактически уже стали товарами. Соответственно, уникальность того, что делает модель, определяется самой надстройкой, которая определяет поведение модели под конкретную задачу, и, самое главное, набором данных. Данные имеют максимальную ценность, потому что, когда модель рассматривается как товар, вы можете переключать модели, что мы уже видим в большом количестве кодовых агентов, таких как Cursor и так далее. То есть то, что дает ценность, — это не модель, а надстройка над моделью, которая определяет поведение. Это фактически набор алгоритмов, прописей, взаимосвязей, графов знаний и так далее, которые разрабатываете вы, плюс ваш уникальный набор данных. Эти две сущности — надстройка и ваши данные — являются полностью вашей собственной собственностью, и именно они определяют уникальность того, что вы делаете. Грубо говоря, если это правильно выстроено, вы можете переключать модели по необходимости, переходить с одного вендора на другой. При этом поведение, качество и уникальность того, что вы сделали поверх стандартной модели, не изменятся.
+Уникальность означает, что, если кто-то попытается у вас что-то украсть, вы сможете засудить их, конечно, если живете в нормальной стране. Поэтому вектор сейчас смещается не в сторону моделей. Модели — это как инфраструктура, как электричество, как интернет в широком смысле. Фокус смещается в направлении того, что вы делаете, основываясь на уникальности и данных, на ваших алгоритмах. Это не может быть скопировано, потому что ваши данные могут быть полностью защищены.
+Плюс необходимо понимать, что, когда вы сами все делаете, это означает, что вы сами полностью управляете циклом развития. Это значит, что то, что вы начинаете делать, плюс ваши данные, неизбежно на каком-то этапе превысит по своим возможностям, а главное — по пользе то, что вам дает любая корпорация. Потому что все SaaS-сервисы — это на самом деле маркетплейс отдельных функций, которые, в соответствии с правилом Парето, 95% из этих функций вам в принципе никогда не понадобятся, но они хотят, чтобы вы за них платили. Вы делаете то, что нужно вам в моменте, с какой-то перспективой.
+Собственно, революция, которая сейчас происходит, заключается в том, что мы видим инерцию, когда большие корпорации пытаются предложить нам то, что мы уже можем сделать быстрее, дешевле, а главное — лучше, чем они.
+2. По поводу корпораций и агентов давайте расставим все точки над «и». Корпорации не разрабатывают агентов вообще. Они зарабатывают деньги и повышают капитализацию. Миссия корпораций — максимизация прибыли акционеров. 
+Для этого они используют все возможные методы: 10% из которых — инновации, 30% — операции в обслуживании, а остальные 50% — маркетинг, то есть генерация бесконечного количества нарративов, которые при глубоком рассмотрении ничего не значат, являются чуть более пустыми, чем полностью, но производят впечатление на инвесторов, потенциальных клиентов и так далее.
+На данный момент не существует никаких критериев того, что называть агентом. Поэтому ниже я приведу определение, к которому я стремлюсь. Как обращать внимание на то, что делают корпорации? 
+Ответ — никак. 95% того, что они делают, — это пустословие. Единственные прикладные вещи — это когда они выкатывают какие-то специализированные модели, при этом количество вендоров основных моделей общего типа ограничено. И то, что является наиболее полезным на данный момент, — это приложения существующих моделей, которые, тем не менее, не являются агентами. Это именно приложения моделей. Простой пример, который всем понятен, — это кодовые агенты. Здесь слово «агенты» не должно смущать, потому что это некая надстройка над базовой моделью + приложения искусственного интеллекта в медицине, науке и так далее. 
+Что делаю я? В каком направлении я двигаюсь и, соответственно, движется весь курс? Моя задача — сделать это по определённым этапам и поделиться с вами.
+Ниже идёт определение агента. Это моё определение. И поверьте, за этим определением стоит как минимум год исследовательской и практической работы, не считая до этого примерно 62 лет жизни и обилия опыта в разных проектах и отраслях.
+Определение Агента
+Полноценный агент — это не просто модель, не просто автоматизация с ИИ, не просто planner, не просто tool-using workflow и не просто чат-ассистент. 
+Полноценный агент — это автономная, сохраняющая состояние и миссию, самообучающаяся сущность, которая действует в среде, умеет не только выполнять покрытые задачи, но и проходить через препятствия за пределами текущего ресурсного поля, расширяя это поле через циклический поиск, постмортем, перестройку внутреннего графа знаний и накопление новых способов действия.
+Ключевой смысл здесь в следующем:
+- агентность определяется не через наличие ИИ, а через тип сущности и тип поведения;
+- внешний запрос не является основанием агента, а только одним из частных случаев его деятельности;
+- базовый циклический процесс агента — не просто исполнение задач, а постоянное самообучение;
+- препятствие не должно завершать деятельность агента, оно должно переводить его в новый режим: поиск, исследование, эксперимент, переопределение задачи, накопление ресурсов;
+- главный результат цикла — не только решение текущей задачи, но и перестройка внутреннего графа знаний, из-за которой завтрашнее ресурсное поле становится шире сегодняшнего.
+Основные критерии полноценного агента
+1. Субъектность. Агент существует не как одноразовая функция, а как сохраняющаяся сущность с идентичностью, состоянием и непрерывностью миссии.
+2. Автономность. Агент способен продолжать деятельность без постоянного внешнего микроконтроля и не зависит от явного запроса на каждый следующий шаг.
+3. Внутренняя миссия. У агента есть собственный внутренний источник движения. В текущей рамке это самосовершенствование и расширение внутреннего графа знаний.
+4. Самогенерация задач. Агент не только принимает задачи извне, но и порождает внутренние учебные, поисковые и уточняющие задачи.
+5. Работа через миссию, цели и метрики. Агент умеет переводить размытый вектор в операциональную структуру: миссия, цели, критерии успеха, метрики, нормы, триггеры.
+6. Представление о ресурсном поле. Агент различает, чем он уже располагает, чего ему не хватает, какие задачи покрыты, а какие лежат за пределами текущих возможностей.
+7. Обнаружение дефицита. Агент способен распознавать нехватку ресурсов: знаний, паттернов, времени, доступа, денег, компетенций, инструментов.
+8. Обнаружение препятствия. Агент отличает просто сложную задачу от ситуации, где прямой маршрут к цели разрывается из-за выхода за пределы ресурсного поля.
+9. Anti-paralysis. Это центральный критерий. При столкновении с препятствием агент не впадает в остановку и не выпадает в ноль.
+10. Переключение режима деятельности. Если прямое исполнение невозможно, агент переходит в другой режим: поиск, исследование, эксперимент, декомпозиция препятствия, обходной маршрут, переопределение гипотезы.
+11. Циклический поиск. Агент умеет многократно повторять поиск, меняя объект, критерии, методы и глубину поиска.
+12. HADI-подобная адаптация. После каждой итерации агент делает постмортем и меняет не только состояние, но и стратегию дальнейшего движения.
+13. Устойчивость поискового усилия. Агент способен продолжать поиск даже тогда, когда локально нет подтверждения, что успех вообще возможен.
+14. Способность накапливать или привлекать ресурсы. Агент умеет искать, создавать, покупать, заимствовать, привлекать или заменять недостающие ресурсы.
+15. Обучение через постмортем. Агент не просто идет дальше, а разбирает, что сработало, что не сработало и что надо изменить в следующем цикле.
+16. Самообучение. Обучение инициируется не только извне. Агент сам поддерживает цикл собственного изменения.
+17. Трансформация внутреннего графа знаний. Результатом цикла становится не только временное решение, а изменение структуры, через которую агент видит мир, строит аналогии и находит решения.
+18. Расширение ресурсного поля. После серии циклов агент способен решать то, что раньше было для него нерешаемо.
+19. Способность к серендипити. Агент умеет распознавать неожиданно ценные результаты поиска и встраивать их в свою картину мира и стратегию.
+20. Надмодельная архитектура. Полноценный агент не равен одной LLM. Он требует композиции модели, памяти, графов знаний, протоколов, правил, оркестрации, логов, валидаторов и обучающих контуров.
+21. Контрактность и управляемость. У агента должны быть явные входы, выходы, критерии переходов, контракты между ролями или этапами, возможность аудита.
+22. Способность к брифингу и уточнению миссии. Агент не должен слепо исполнять размытый запрос; он должен уметь уточнять цель, ограничения, ресурсы и критерии успеха.
+23. Планирование и декомпозиция. Агент умеет строить план, разбивать его на задачи, видеть зависимости и удерживать контрольные точки.
+24. Корректный отказ и переопределение. Агент должен различать ложные, бессмысленные и парадоксальные постановки и переводить их либо в корректное уточнение, либо в осмысленный отказ, либо в исследовательский режим.
+25. Непрерывность цикла. Агент умеет завершать итерацию, сохранять следы, использовать результат в следующей итерации и не терять миссию между шагами.
+Что само по себе не делает систему полноценным агентом
+- наличие LLM;
+- наличие памяти как хранилища;
+- наличие tool use;
+- наличие planner;
+- наличие workflow;
+- наличие цикла обратной связи;
+- высокая компетентность в покрытых задачах.
+Если сжать все до одной самой сильной формулы, то полноценный агент — это сущность, которая имеет внутреннюю миссию, сохраняет автономное движение, не впадает в паралич при препятствии, умеет превращать дефицит в поиск, превращать поиск во внутреннюю перестройку и тем самым непрерывно расширяет собственное ресурсное поле.&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02Nya9gudPrKHiqsZkAEN1vNf59zhnaJyzsaDu8MsEPkvia955AVSrYEaH8HYyMguql</link>
+      <guid isPermaLink="false">pfbid02Nya9gudPrKHiqsZkAEN1vNf59zhnaJyzsaDu8MsEPkvia955AVSrYEaH8HYyMguql</guid>
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;Тут мне пришла в голову оригинальная мысль. Я все время что-то пытался делать для людей, и тут я понял, что это неправильно. Надо делать для военных.&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=110071201904641</link>
+      <guid isPermaLink="false">ded32b4d48ce755f</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/655221575_1642115476808791_7196710607740804368_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=GNKJqRN7qX0Q7kNvwGorwIf&amp;_nc_oc=AdoXINthrSAuI8XgLx7U1BxdWH74Lmkns4utebk1L718BheI-XlncH49TQvno64cghk&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=smk5xPJZ_--jjbJu4gmdQA&amp;_nc_ss=7a3a8&amp;oh=00_Af2wYwkceZCE0sCahuk6iccamim_DwxcMmIfeLRiPTMvNA&amp;oe=69DB815D" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;Унижение и троллинг Голливуда продолжается. Конечно, мы любим режиссеров, сценаристов, актеров, которые последние 100 лет доставляли нам столько радости, но мы все ненавидим голливудских снобов.
+SeeDance 2.0&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/655221575_1642115476808791_7196710607740804368_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=GNKJqRN7qX0Q7kNvwGorwIf&amp;amp;_nc_oc=AdoXINthrSAuI8XgLx7U1BxdWH74Lmkns4utebk1L718BheI-XlncH49TQvno64cghk&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=smk5xPJZ_--jjbJu4gmdQA&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2wYwkceZCE0sCahuk6iccamim_DwxcMmIfeLRiPTMvNA&amp;amp;oe=69DB815D" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/reel/771250289142464/?comment_id=1244688230983373&amp;amp;__cft__[0]=AZa6QM1twUYc1nO38Abfpue0gt6WMt8sDZ98Zq_KAZ3OMw2rSo1ILy74XEGO22HFlMndpQ16Z6AgU0qLdXT7CqkmHyYe6FFUUOagGdid1fSv4MEWgbGvosRvhjRiJB4Nbi0EN8JRN8hBG2GaMS-MKv9Ey_pHc4DNh_HAN-R0m2Gp2uwtYC5m_3OwCTLT0Btfsu_W6WbMGKf0AjlbrOnRcrtm&amp;amp;__tn__=R-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=110071201904641</link>
+      <guid isPermaLink="false">bd2f87e7c6533ec1</guid>
+      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t15.5256-10/655899377_1133498205526012_3356552468517944174_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=SPGbpmWNKkoQ7kNvwFEUOdW&amp;_nc_oc=AdpIO8VM1wEWuqUXwqqVi-gMPEOTZJ-h6j_Gj5wQVsWpTRj0h132isNXvKn0RP2IdIM&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=VwLIS9EvFlAs_EXLCuQ4Cw&amp;_nc_ss=7a3a8&amp;oh=00_Af1uYTHuVgHAgk6AqGULJMc7oWgbZyY3nCfR9t-3b5WH3A&amp;oe=69DBA372" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 02:14:21 +0000</pubDate>
+    <content:encoded>&lt;p&gt;Архитекторы это возненавидят.
+Кто-то только что выложил в open source полноценный 3D-редактор зданий, который целиком работает прямо в браузере.
+Никакого AutoCAD. Никакого Revit. Никаких лицензий за $5,000 в год.
+Он называется Pascal Editor.
+Сделан на React Three Fiber и WebGPU — то есть рендерит напрямую на вашем GPU почти с нативной скоростью.
+Вот что в нём есть:
+→ Полноценная иерархия building / level / wall / zone, которую можно редактировать в реальном времени
+→ Архитектура в стиле ECS, где каждый объект обновляется через GPU-powered systems
+→ Управление состоянием через Zustand с встроенными undo/redo
+→ Фронтенд на Next.js, так что это разворачивается как веб-приложение, а не как десктопная установка
+→ Dirty node tracking — перерисовывается только то, что изменилось, а не вся сцена целиком
+А вот самая дикая часть:
+Можно складывать, “взрывать” по уровням или изолировать отдельные этажи здания. Выбираешь зону, тянешь стену, меняешь форму плиты — всё в 3D, всё прямо в браузере.
+Архитектурные фирмы платят $50K+ за одно место в BIM-софте, который делает такой workflow.
+А это бесплатно.
+100% Open Source. Источник: https://x.com/heygurisingh/status/2035674710005187065
+PS. Следующий шаг прикрутить к этому ИИ. Да, в течении 4-5 людей в архитектуре тоже не будет, похоже.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t15.5256-10/655899377_1133498205526012_3356552468517944174_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=111&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=SPGbpmWNKkoQ7kNvwFEUOdW&amp;amp;_nc_oc=AdpIO8VM1wEWuqUXwqqVi-gMPEOTZJ-h6j_Gj5wQVsWpTRj0h132isNXvKn0RP2IdIM&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=VwLIS9EvFlAs_EXLCuQ4Cw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1uYTHuVgHAgk6AqGULJMc7oWgbZyY3nCfR9t-3b5WH3A&amp;amp;oe=69DBA372" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/reel/2173839683359978/?comment_id=742842738779172&amp;amp;__cft__[0]=AZYrezK0Nl67oXirLCE4SMlVcLTIiQRWa3RAFkukAtjpDn1AhC_g3vD--Lp-kEgDRsNGqeH-fhtPKyhB5KZFxnaFFWtlAquxZ8u1ZC-yuQ2M6aPZ9fSJaJSmx_4vAzqtarMxiVHP1zhhI6aPx1zGLg8NYkiATsohYu-uycDwNUMWH3QQPj2M63HX_0zs2TNFAA5YtlW4R4kj1hg71zwkAxnw&amp;amp;__tn__=R-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
   </channel>
 </rss>
