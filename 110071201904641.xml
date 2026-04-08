@@ -7,38 +7,145 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 02:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:27:02 +0000</lastBuildDate>
     <item>
       <link>https://www.facebook.com/profile.php?id=110071201904641</link>
-      <guid isPermaLink="false">bd2f87e7c6533ec1</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t15.5256-10/655899377_1133498205526012_3356552468517944174_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=SPGbpmWNKkoQ7kNvwFEUOdW&amp;_nc_oc=AdpIO8VM1wEWuqUXwqqVi-gMPEOTZJ-h6j_Gj5wQVsWpTRj0h132isNXvKn0RP2IdIM&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=VwLIS9EvFlAs_EXLCuQ4Cw&amp;_nc_ss=7a3a8&amp;oh=00_Af1uYTHuVgHAgk6AqGULJMc7oWgbZyY3nCfR9t-3b5WH3A&amp;oe=69DBA372" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Архитекторы это возненавидят.
-Кто-то только что выложил в open source полноценный 3D-редактор зданий, который целиком работает прямо в браузере.
-Никакого AutoCAD. Никакого Revit. Никаких лицензий за $5,000 в год.
-Он называется Pascal Editor.
-Сделан на React Three Fiber и WebGPU — то есть рендерит напрямую на вашем GPU почти с нативной скоростью.
-Вот что в нём есть:
-→ Полноценная иерархия building / level / wall / zone, которую можно редактировать в реальном времени
-→ Архитектура в стиле ECS, где каждый объект обновляется через GPU-powered systems
-→ Управление состоянием через Zustand с встроенными undo/redo
-→ Фронтенд на Next.js, так что это разворачивается как веб-приложение, а не как десктопная установка
-→ Dirty node tracking — перерисовывается только то, что изменилось, а не вся сцена целиком
-А вот самая дикая часть:
-Можно складывать, “взрывать” по уровням или изолировать отдельные этажи здания. Выбираешь зону, тянешь стену, меняешь форму плиты — всё в 3D, всё прямо в браузере.
-Архитектурные фирмы платят $50K+ за одно место в BIM-софте, который делает такой workflow.
-А это бесплатно.
-100% Open Source. Источник: https://x.com/heygurisingh/status/2035674710005187065
-PS. Следующий шаг прикрутить к этому ИИ. Да, в течении 4-5 людей в архитектуре тоже не будет, похоже.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t15.5256-10/655899377_1133498205526012_3356552468517944174_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=111&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=SPGbpmWNKkoQ7kNvwFEUOdW&amp;amp;_nc_oc=AdpIO8VM1wEWuqUXwqqVi-gMPEOTZJ-h6j_Gj5wQVsWpTRj0h132isNXvKn0RP2IdIM&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=VwLIS9EvFlAs_EXLCuQ4Cw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1uYTHuVgHAgk6AqGULJMc7oWgbZyY3nCfR9t-3b5WH3A&amp;amp;oe=69DBA372" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/reel/2173839683359978/?comment_id=742842738779172&amp;amp;__cft__[0]=AZYrezK0Nl67oXirLCE4SMlVcLTIiQRWa3RAFkukAtjpDn1AhC_g3vD--Lp-kEgDRsNGqeH-fhtPKyhB5KZFxnaFFWtlAquxZ8u1ZC-yuQ2M6aPZ9fSJaJSmx_4vAzqtarMxiVHP1zhhI6aPx1zGLg8NYkiATsohYu-uycDwNUMWH3QQPj2M63HX_0zs2TNFAA5YtlW4R4kj1hg71zwkAxnw&amp;amp;__tn__=R-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
+      <guid isPermaLink="false">d8bf169f2c594ff5</guid>
+    <content:encoded>&lt;p&gt;Claude Code vs Codex - https://github.com/.../blob/main/claudecode_vs_codex.md
+Версия файла: v2.0 Дата версии: 2026-03-16 Тип документа: сравнительный гайд. Это сравнение следует читать как снимок материалов по состоянию на 16 марта 2026.
+Аннотация
+Это документ для тех, кто хочет понять простыми словами, чем отличаются Claude Code и Codex, не погружаясь глубоко в технические детали.
+Его цель:
+• показать, что умеет каждый агент;
+• объяснить, в чём они похожи, а в чём различаются;
+• помочь выбрать, какой инструмент лучше подходит под конкретную задачу.
+Практическая польза документа:
+• он помогает понять, какой агент лучше подходит для работы с макетами, ТЗ и сборкой продукта;
+• он показывает, какой агент удобнее для строгих настроек, ограничений, автоматизаций и повторяемой работы;
+• он объясняет ключевые термины простым языком, чтобы документ был полезен не только разработчикам.
+Проще говоря, это карта выбора между двумя кодовыми агентами: когда брать Claude Code, когда брать Codex, а когда полезно сочетать подходы обоих.
+Это обновлённая версия сравнения. Теперь оно основано не на двух, а на трёх документах из этого репозитория:
+    claudecode_process_1.md
+    claudecode-precess_2.md
+    codex_process_1.md
+Важно: второй документ про Claude Code сильно меняет картину. Раньше могло казаться, что Claude Code в этих материалах описан в основном как инструмент для длинного продуктового pipeline, а Codex — как более формальная и настраиваемая агентная система. После появления claudecode-precess_2.md видно, что это уже не совсем так.
+Теперь картина точнее такая:
+• Claude Code в этих материалах показан и как инструмент для сборки продукта, и как серьёзная агентная система с настройками, permissions, hooks, sandbox, subagents и MCP.
+• Codex в этих материалах по-прежнему очень силён как настраиваемая агентная платформа с AGENTS.md, config.toml, approval_policy, sandbox_mode, rules, automations и custom agents.
+То есть сравнение стало более честным и более симметричным.
+Этот документ написан простым языком для людей, которые используют AI-инструменты, но не обязаны быть разработчиками. Если встречается непонятный термин, в конце есть тезаурус.
+Если сказать совсем просто:
+• Claude Code по этим материалам лучше показан как агент, который помогает пройти путь от идеи и макетов до рабочего продукта.
+• Codex по этим материалам лучше показан как агент, которого особенно удобно жёстко настраивать, ограничивать, масштабировать на несколько сценариев и ставить на повторяемую работу.
+Оба агента являются полноценными агентными платформами, просто сильные стороны у них чуть разные.
+Разрыв между Claude Code и Codex в части &amp;quot;системности&amp;quot; стал меньше. Сравнение теперь уже не про то, есть ли у Claude Code control plane вообще. Он есть. Вопрос теперь скорее в том, какой тип управления и какой стиль работы вам ближе.
+Как читать это сравнение? Ниже будут две таблицы:
+    Платформенное сравнение
+Там речь про управление агентом как системой:
+    правила;
+    настройки;
+    permissions;
+    hooks;
+    subagents;
+    skills;
+    безопасность;
+    интеграции.
+Сравнение по практическим сценариям
+    Там уже речь про реальные use case:
+    макеты;
+    ТЗ;
+    browser automation;
+    регулярные задачи;
+    длинные продуктовые цепочки;
+    работа без интерфейса;
+    обучение команды.
+В последней колонке каждой таблицы я пишу не технический вывод, а ответ на вопрос: &amp;quot;Что это значит для обычного человека?&amp;quot;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02g7iFMnypoNfHenkKn4RucWoNS4HnJTWk6fHMTo86desgsL52eptTGvy4DKwbNf78l</link>
+      <guid isPermaLink="false">pfbid02g7iFMnypoNfHenkKn4RucWoNS4HnJTWk6fHMTo86desgsL52eptTGvy4DKwbNf78l</guid>
+    <content:encoded>&lt;p&gt;«Это как будто тебя бросили в зону шокирующей компетентности». Марк Андриссен о работе в одной из компаний Илона Маска:
+«Все там чрезвычайно компетентны... А если нет, Илон это моментально чует и увольняет».
+«Лучшие инженеры мира хотят работать на него, потому что он — едва ли не единственный CEO такого уровня, который способен работать с ними на равных».…&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02CVbm3tf9Tcrxonz6AGpr9hgtBqBL18UAw7MkMLHaGqRRDoCVAydtgNeseq4b9eWml</link>
+      <guid isPermaLink="false">pfbid02CVbm3tf9Tcrxonz6AGpr9hgtBqBL18UAw7MkMLHaGqRRDoCVAydtgNeseq4b9eWml</guid>
+      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/653908701_10233853864440867_3559573182762635414_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=siA82Nbr9yoQ7kNvwFQSFOO&amp;_nc_oc=Ado64oB0lXITJHtgNBBbn21y7TdT6s6lAp951uJTNSUT24Mhz4anQhA2JDt6sf-pcCs&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af30clNHK104zZoSa_G4hUuv8LJ34UrnHxoO72-1de0wdQ&amp;oe=69DB73F4" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Я уже давно отдаю предпочтение Claude Code, а не Codex или Gemini, поскольку он казался мне гораздо более надежным — хотя я и не мог объяснить почему. Теперь же Bullshit Bench от @petergostev предоставляет убедительные цифры, подтверждающие это.
+Этот бенчмарк определяет «чушь» (bullshit) следующим образом: если модели подсунуть ложные исходные данные, замаскированные под профессиональный жаргон, пойдет ли она на поводу у этого потока 
+ чушь) или же даст отпор 
+ истина)?
+И Claude здесь на голову выше остальных!
+Кроме того, эта цель — стремление к истинности — вероятно, вступает в противоречие с той «эмерджентной целью», которая сложилась на площадке Chatbot Arena, а именно: обеспечение «приятного опыта общения». Однако модель, оптимизированная именно под истинность, в конечном счете окажется куда более полезной.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/653908701_10233853864440867_3559573182762635414_n.jpg?_nc_cat=106&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=siA82Nbr9yoQ7kNvwFQSFOO&amp;amp;_nc_oc=Ado64oB0lXITJHtgNBBbn21y7TdT6s6lAp951uJTNSUT24Mhz4anQhA2JDt6sf-pcCs&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af30clNHK104zZoSa_G4hUuv8LJ34UrnHxoO72-1de0wdQ&amp;amp;oe=69DB73F4" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
       <link>https://www.facebook.com/profile.php?id=110071201904641</link>
-      <guid isPermaLink="false">ded32b4d48ce755f</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/655221575_1642115476808791_7196710607740804368_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=GNKJqRN7qX0Q7kNvwGorwIf&amp;_nc_oc=AdoXINthrSAuI8XgLx7U1BxdWH74Lmkns4utebk1L718BheI-XlncH49TQvno64cghk&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=smk5xPJZ_--jjbJu4gmdQA&amp;_nc_ss=7a3a8&amp;oh=00_Af2wYwkceZCE0sCahuk6iccamim_DwxcMmIfeLRiPTMvNA&amp;oe=69DB815D" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Унижение и троллинг Голливуда продолжается. Конечно, мы любим режиссеров, сценаристов, актеров, которые последние 100 лет доставляли нам столько радости, но мы все ненавидим голливудских снобов.
-SeeDance 2.0&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/655221575_1642115476808791_7196710607740804368_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=GNKJqRN7qX0Q7kNvwGorwIf&amp;amp;_nc_oc=AdoXINthrSAuI8XgLx7U1BxdWH74Lmkns4utebk1L718BheI-XlncH49TQvno64cghk&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=smk5xPJZ_--jjbJu4gmdQA&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2wYwkceZCE0sCahuk6iccamim_DwxcMmIfeLRiPTMvNA&amp;amp;oe=69DB815D" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/reel/771250289142464/?comment_id=1244688230983373&amp;amp;__cft__[0]=AZa6QM1twUYc1nO38Abfpue0gt6WMt8sDZ98Zq_KAZ3OMw2rSo1ILy74XEGO22HFlMndpQ16Z6AgU0qLdXT7CqkmHyYe6FFUUOagGdid1fSv4MEWgbGvosRvhjRiJB4Nbi0EN8JRN8hBG2GaMS-MKv9Ey_pHc4DNh_HAN-R0m2Gp2uwtYC5m_3OwCTLT0Btfsu_W6WbMGKf0AjlbrOnRcrtm&amp;amp;__tn__=R-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
+      <guid isPermaLink="false">1d639145a0fe66d1</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/654541817_2022680471925723_7252139102575356501_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=DScwcObCJ3wQ7kNvwHAO9wc&amp;_nc_oc=Adp9KDwMer5hvLC4--JENMr29_RoMSRnq1hAVwuiRzPpOMSGbjW9Ac4dpNhEMOPZwpo&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af1-Yzv8afiB57Xn7xsq2l-TgC9UyVyXXhFn1DfhH4l9og&amp;oe=69DB84E7" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;#такМожноБыло  Очень крутой пример: Посмотрите пару минут видео, что увидеть, что он создал. Знать язык не обязательно. Таким людям принадлежит будущее. Источник: https://x.com/toddsaunders/status/2034243420147859716
+&amp;quot;Я знаю, что стартапы в Кремниевой долине не хотят этого слышать…
+Но комбинация человека из прикладной профессии с глубокой отраслевой экспертизой и Claude Code будет бегать кругами вокруг вашего «универсального» софта.
+Сегодня утром я разговаривал с Кори ЛаШансом — механическим инженером, который занимается промышленными трубопроводами на строительстве объектов в Хьюстоне. Обычно он работает с химическими заводами и нефтеперерабатывающими предприятиями, а сейчас также работает с терминалом.
+Несколько дней назад он написал мне в личку, и его история так меня зажгла, что я попросил разрешения записать наш разговор и поделиться им.
+Он построил полноценное приложение, которым каждый день пользуются промышленные подрядчики. Оно читает изометрические чертежи трубопроводов и автоматически извлекает из них количество сварных швов, спецификации материалов и все товарные коды.
+Работа, которая раньше занимала 10 минут на один чертёж, теперь занимает 60 секунд. Оно может обработать 100 чертежей за пять минут, экономя дни работы.
+Его коллеги просто в шоке, и когда он разговаривает с ними, ощущение, будто они говорят на разных языках.
+Его производственный цех использует это каждый день, а всё приложение он сделал за 8 недель. Причём за эти же 8 недель ему пришлось с нуля разобраться с Claude Code, терминалом, VS Code — со всем.
+Моя любимая его фраза была такая:
+«Я буквально сделал всё это без какой-либо внешней помощи, кроме ИИ. Мои любимые инструменты — это скриншоты, пошаговые инструкции и просьба к Claude объяснить всё так, как будто мне пять лет».
+Теперь любой специалист-практик с глубокой экспертизой и готовностью провести несколько выходных с Claude Code — потенциальный основатель софтверной компании.
+Мне не терпится познакомиться с ещё большим количеством таких людей, как Кори.&amp;quot;
+Мой комментарий:
+Это человек никакого отношения к ИТ не имеет, он не продакт, не прогер, не дизайнер - он инженер-механик, но он смог все сделать, потому что «Я буквально сделал всё это без какой-либо внешней помощи, кроме ИИ. Мои любимые инструменты — это скриншоты, пошаговые инструкции и просьба к Claude объяснить всё так, как будто мне пять лет».
+Люди, вам никто более не нужен, чтобы создавать прекрасные и полезные вещи БЫСТРО. Если бы такой софт делали обычным образом, это было 30+ человек, 1 год и несколько миллионов $. SaaS умрет, потому что все, 100% проще делать in-house. Зачем вкладывать деньги в обучение ЧУЖИХ работников, вместо того, чтобы вкладывать в своих и свой IP. Так мыслит любой предприниматель.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/654541817_2022680471925723_7252139102575356501_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=DScwcObCJ3wQ7kNvwHAO9wc&amp;amp;_nc_oc=Adp9KDwMer5hvLC4--JENMr29_RoMSRnq1hAVwuiRzPpOMSGbjW9Ac4dpNhEMOPZwpo&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1-Yzv8afiB57Xn7xsq2l-TgC9UyVyXXhFn1DfhH4l9og&amp;amp;oe=69DB84E7" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/watch/hashtag/%D1%82%D0%B0%D0%BA%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D0%B1%D1%8B%D0%BB%D0%BE?__eep__=6%2F&amp;amp;__cft__[0]=AZZ38WHqWNuqQ1l6Nft98faMYK9dKzSk3f7xFDO7roy5nO3TaR15mbnINtAyK7_pJt5uw-7w_VMe8Z-q_pHTLuA2JFD4fe2fEVlk3-3-pmR3mionoMF9wIAZFTcLEi--mFlaHBQzg441aYWKaAcAKzxV3Tir1QwusHQOdVTli6wz6ieNUmMA3ax0Up8U1Hq00iuNBsXBCajLKGxyAcuRShrR&amp;amp;__tn__=*NK-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02Nya9gudPrKHiqsZkAEN1vNf59zhnaJyzsaDu8MsEPkvia955AVSrYEaH8HYyMguql</link>
-      <guid isPermaLink="false">pfbid02Nya9gudPrKHiqsZkAEN1vNf59zhnaJyzsaDu8MsEPkvia955AVSrYEaH8HYyMguql</guid>
-    <content:encoded>&lt;p&gt;Тут мне пришла в голову оригинальная мысль. Я все время что-то пытался делать для людей, и тут я понял, что это неправильно. Надо делать для военных.&lt;/p&gt;</content:encoded></item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02kEzUX5F8hYLFVw677278p19joW8deUKtcwf4NotHPBMyvEDYnAKNy9sViMDAbdZDl</link>
+      <guid isPermaLink="false">pfbid02kEzUX5F8hYLFVw677278p19joW8deUKtcwf4NotHPBMyvEDYnAKNy9sViMDAbdZDl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/654871911_10233873065320877_6866009698745169884_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=idUidP2Pr5AQ7kNvwFYRmsc&amp;_nc_oc=Adox3G3X5U0wqJTcmDlJkyXZfOFMTxR_8ldP6ond381gcVA_N3BcbGy99DACn5uiNYw&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af1LZzGyKlJI4HGy1_Iolaf3abmgeWOt5UKltVnIoKAB9w&amp;oe=69DBA672" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;А как вам это? &amp;quot;Сейчас выхожу на темп выручки около $4,5 млн в год. Всё ещё один основатель + ИИ. Ноль сотрудников.
+Честно: эта неделя меня почти сломала. Никто не готовит тебя к тому, как на самом деле ощущается product-market fit.
+Каждый инфраструктурный партнёр упирается в rate limits.
+Каждый баг, который вообще мог случиться — случился.
+Инвесторы бросают на стол огромные цифры.
+Клиенты заваливают все каналы.
+И всё это одновременно.
+Я просто исчез. Перестал писать в Twitter, перестал в LinkedIn, перестал ходить на подкасты, остановил весь рост.
+Остались только я и мои ИИ-агенты, и мы по одному чинили всё, что ломалось.
+Вот что я понял: с ИИ можно решить всё. Буквально всё.
+Я строю Polsia, чтобы каждый соло-предприниматель получил доступ к тем же инструментам, которые прямо сейчас удерживают меня на плаву. Если я могу выжить в этом в одиночку, значит это можно упаковать и дать всем.
+Будущее — solopreneur + AI. Я живу на краю, чтобы вам не пришлось.&amp;quot; источник https://x.com/Bencera/status/2033719142017339683
+UD: Некоторые не понимают, что источник в Твиттере.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/654871911_10233873065320877_6866009698745169884_n.jpg?_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=idUidP2Pr5AQ7kNvwFYRmsc&amp;amp;_nc_oc=Adox3G3X5U0wqJTcmDlJkyXZfOFMTxR_8ldP6ond381gcVA_N3BcbGy99DACn5uiNYw&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1LZzGyKlJI4HGy1_Iolaf3abmgeWOt5UKltVnIoKAB9w&amp;amp;oe=69DBA672" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid0SpaeHDLSrawhWwa7iqFFsPsVwaiFhX2fe3Kgp23Cmt3eP6YtjNuMVPxt9G4iDmkPl</link>
+      <guid isPermaLink="false">pfbid0SpaeHDLSrawhWwa7iqFFsPsVwaiFhX2fe3Kgp23Cmt3eP6YtjNuMVPxt9G4iDmkPl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/653374345_10233904998119177_7086324375411091697_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=NeqV2AZOuMQQ7kNvwFTgdh6&amp;_nc_oc=AdoEN6iJS9D8aGWTMHlWEfnhPs8APAPN_jLoiCRd5Fa9k6rl1TnfH20XrgRAEUMIZSc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=3xKV5Dc1ceNLROvYHeCwQQ&amp;_nc_ss=7a3a8&amp;oh=00_Af3jSPPi1ulX4C5dfU00fTbbbm9XnlkwucSSisS5jd2uxQ&amp;oe=69DB8ECA" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;У меня идет большой апдейт по автономности работы ИИ, о чем мы говорим с вами последний месяц. И все, что связано с безопасностью, — это маленькая часть этой проблемы, которая решается по ходу. На самом деле фактически вся эта работа уже почти год идет.
+Но плотно с автономностью я начал работать фактически 2,5–3 месяца назад, когда осознал, что парное программирование — не вариант.
+То есть да, искусственный интеллект многое может делать, но мы же не хотим становиться его рабами, разрабами.
+Мы хотим, чтобы искусственный интеллект делал за нас то, что мы не хотим и не любим. Не наша задача делать работу.
+Наша задача — говорить ему, что делать, чтобы он справлялся сам.
+Много чего исследовано, куча попыток. Вчера был такой первый проблеск в конце туннеля. Нужно провести еще с десяток тестов, но все выглядит очень обнадеживающе.
+По крайней мере, вчера у меня был первый кейс, когда практически с нуля — ну, не совсем с нуля, конечно, там были уже определенные наработки.
+Я начал писать некую книгу где-то еще в апреле–мае прошлого года. Там написано от силы 5%, но она уже хорошо структурирована, и я решил этот проект использовать в качестве теста для того, чтобы полностью искусственный интеллект написал ее автономно.
+Естественно, сейчас мы не будем говорить о качестве книги, это совершенно отдельный вопрос.
+Фокус был на том, чтобы заставить ИИ работать 100% автономно, без остановок, пауз, согласований.
+И вчера эта задача впервые была реализована после многих попыток с разными агентами и подходами. Это стало возможно после определенного инсайта, который был вчера.
+Суть инсайта в том, что обеспечение полноценной автономности — это совершенно самостоятельная задача, никак не связанная с тем, какую именно задачу ИИ решает в рамках автономного выполнения.
+То есть автономность имеет свои метрики, не связанные с метриками качества самой задачи. Для этого простого понимания мне потребовался почти год, и это не так очевидно.
+Почему автономность — это фундамент? Потому что автономность означает способность реализовать цели широкой миссии полностью самостоятельно в условиях неопределенности, недостатка информации, проактивно, при наличии препятствий, а значит, фундаментом автономности является способность к самообучению.
+Если ИИ изначально «глупый», но способен самообучаться, он рано или поздно не просто научится решать любую задачу, но и будет делать это с максимально возможным качеством.
+Если ИИ даже очень «умный», но не способен самообучаться, он не может преодолеть встроенный уровень и не способен наращивать качество решений.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/653374345_10233904998119177_7086324375411091697_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=NeqV2AZOuMQQ7kNvwFTgdh6&amp;amp;_nc_oc=AdoEN6iJS9D8aGWTMHlWEfnhPs8APAPN_jLoiCRd5Fa9k6rl1TnfH20XrgRAEUMIZSc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=3xKV5Dc1ceNLROvYHeCwQQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3jSPPi1ulX4C5dfU00fTbbbm9XnlkwucSSisS5jd2uxQ&amp;amp;oe=69DB8ECA" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+    <item>
+      <link>https://www.facebook.com/profile.php?id=110071201904641</link>
+      <guid isPermaLink="false">2077b4f77354a2d1</guid>
+    <content:encoded>&lt;p&gt;Доступен 2-й урок бесплатного курса по Вайбкодингу и не только. Всем отправлено письмо - см. почту.
+Чтобы зайти надо сначала залогинится.
+https://alexeykrol.com/courses/real/lessons/2-52/
+Ищите ваши курсы в разделе меню сайта Ваши курсы:
+https://alexeykrol.com/learnprofile/
+Для общего доступа:
+ Книга по Claude Code - https://github.com/.../2_lessons/claude-code-book/README.md
+Книга по Codex - https://github.com/.../main/2_lessons/codex-book/README.md
+Прикладные Playbooks - https://github.com/.../cour.../tree/main/2_lessons/playbooks
+ Практический гид. Codex vs Claude Code в реальной работе - https://github.com/.../codex-vs-claude-code-in-practice.md&lt;/p&gt;</content:encoded></item>
     <item>
       <link>https://www.facebook.com/alex.v.krol/posts/pfbid02roUnDAjw8yBPLBSEngT6d2MEMLXGCrDFckkGfNwCCQzbi4H2H6jEK6ddAFDCasSAl</link>
       <guid isPermaLink="false">pfbid02roUnDAjw8yBPLBSEngT6d2MEMLXGCrDFckkGfNwCCQzbi4H2H6jEK6ddAFDCasSAl</guid>
@@ -98,143 +205,45 @@ SeeDance 2.0&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.n
 - высокая компетентность в покрытых задачах.
 Если сжать все до одной самой сильной формулы, то полноценный агент — это сущность, которая имеет внутреннюю миссию, сохраняет автономное движение, не впадает в паралич при препятствии, умеет превращать дефицит в поиск, превращать поиск во внутреннюю перестройку и тем самым непрерывно расширяет собственное ресурсное поле.&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/profile.php?id=110071201904641</link>
-      <guid isPermaLink="false">2077b4f77354a2d1</guid>
-    <content:encoded>&lt;p&gt;Доступен 2-й урок бесплатного курса по Вайбкодингу и не только. Всем отправлено письмо - см. почту.
-Чтобы зайти надо сначала залогинится.
-https://alexeykrol.com/courses/real/lessons/2-52/
-Ищите ваши курсы в разделе меню сайта Ваши курсы:
-https://alexeykrol.com/learnprofile/
-Для общего доступа:
- Книга по Claude Code - https://github.com/.../2_lessons/claude-code-book/README.md
-Книга по Codex - https://github.com/.../main/2_lessons/codex-book/README.md
-Прикладные Playbooks - https://github.com/.../cour.../tree/main/2_lessons/playbooks
- Практический гид. Codex vs Claude Code в реальной работе - https://github.com/.../codex-vs-claude-code-in-practice.md&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid0SpaeHDLSrawhWwa7iqFFsPsVwaiFhX2fe3Kgp23Cmt3eP6YtjNuMVPxt9G4iDmkPl</link>
-      <guid isPermaLink="false">pfbid0SpaeHDLSrawhWwa7iqFFsPsVwaiFhX2fe3Kgp23Cmt3eP6YtjNuMVPxt9G4iDmkPl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/653374345_10233904998119177_7086324375411091697_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=NeqV2AZOuMQQ7kNvwFTgdh6&amp;_nc_oc=AdoEN6iJS9D8aGWTMHlWEfnhPs8APAPN_jLoiCRd5Fa9k6rl1TnfH20XrgRAEUMIZSc&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=3xKV5Dc1ceNLROvYHeCwQQ&amp;_nc_ss=7a3a8&amp;oh=00_Af3jSPPi1ulX4C5dfU00fTbbbm9XnlkwucSSisS5jd2uxQ&amp;oe=69DB8ECA" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;У меня идет большой апдейт по автономности работы ИИ, о чем мы говорим с вами последний месяц. И все, что связано с безопасностью, — это маленькая часть этой проблемы, которая решается по ходу. На самом деле фактически вся эта работа уже почти год идет.
-Но плотно с автономностью я начал работать фактически 2,5–3 месяца назад, когда осознал, что парное программирование — не вариант.
-То есть да, искусственный интеллект многое может делать, но мы же не хотим становиться его рабами, разрабами.
-Мы хотим, чтобы искусственный интеллект делал за нас то, что мы не хотим и не любим. Не наша задача делать работу.
-Наша задача — говорить ему, что делать, чтобы он справлялся сам.
-Много чего исследовано, куча попыток. Вчера был такой первый проблеск в конце туннеля. Нужно провести еще с десяток тестов, но все выглядит очень обнадеживающе.
-По крайней мере, вчера у меня был первый кейс, когда практически с нуля — ну, не совсем с нуля, конечно, там были уже определенные наработки.
-Я начал писать некую книгу где-то еще в апреле–мае прошлого года. Там написано от силы 5%, но она уже хорошо структурирована, и я решил этот проект использовать в качестве теста для того, чтобы полностью искусственный интеллект написал ее автономно.
-Естественно, сейчас мы не будем говорить о качестве книги, это совершенно отдельный вопрос.
-Фокус был на том, чтобы заставить ИИ работать 100% автономно, без остановок, пауз, согласований.
-И вчера эта задача впервые была реализована после многих попыток с разными агентами и подходами. Это стало возможно после определенного инсайта, который был вчера.
-Суть инсайта в том, что обеспечение полноценной автономности — это совершенно самостоятельная задача, никак не связанная с тем, какую именно задачу ИИ решает в рамках автономного выполнения.
-То есть автономность имеет свои метрики, не связанные с метриками качества самой задачи. Для этого простого понимания мне потребовался почти год, и это не так очевидно.
-Почему автономность — это фундамент? Потому что автономность означает способность реализовать цели широкой миссии полностью самостоятельно в условиях неопределенности, недостатка информации, проактивно, при наличии препятствий, а значит, фундаментом автономности является способность к самообучению.
-Если ИИ изначально «глупый», но способен самообучаться, он рано или поздно не просто научится решать любую задачу, но и будет делать это с максимально возможным качеством.
-Если ИИ даже очень «умный», но не способен самообучаться, он не может преодолеть встроенный уровень и не способен наращивать качество решений.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/653374345_10233904998119177_7086324375411091697_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=100&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=NeqV2AZOuMQQ7kNvwFTgdh6&amp;amp;_nc_oc=AdoEN6iJS9D8aGWTMHlWEfnhPs8APAPN_jLoiCRd5Fa9k6rl1TnfH20XrgRAEUMIZSc&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=3xKV5Dc1ceNLROvYHeCwQQ&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af3jSPPi1ulX4C5dfU00fTbbbm9XnlkwucSSisS5jd2uxQ&amp;amp;oe=69DB8ECA" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02kEzUX5F8hYLFVw677278p19joW8deUKtcwf4NotHPBMyvEDYnAKNy9sViMDAbdZDl</link>
-      <guid isPermaLink="false">pfbid02kEzUX5F8hYLFVw677278p19joW8deUKtcwf4NotHPBMyvEDYnAKNy9sViMDAbdZDl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/654871911_10233873065320877_6866009698745169884_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=idUidP2Pr5AQ7kNvwFYRmsc&amp;_nc_oc=Adox3G3X5U0wqJTcmDlJkyXZfOFMTxR_8ldP6ond381gcVA_N3BcbGy99DACn5uiNYw&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af1LZzGyKlJI4HGy1_Iolaf3abmgeWOt5UKltVnIoKAB9w&amp;oe=69DBA672" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;А как вам это? &amp;quot;Сейчас выхожу на темп выручки около $4,5 млн в год. Всё ещё один основатель + ИИ. Ноль сотрудников.
-Честно: эта неделя меня почти сломала. Никто не готовит тебя к тому, как на самом деле ощущается product-market fit.
-Каждый инфраструктурный партнёр упирается в rate limits.
-Каждый баг, который вообще мог случиться — случился.
-Инвесторы бросают на стол огромные цифры.
-Клиенты заваливают все каналы.
-И всё это одновременно.
-Я просто исчез. Перестал писать в Twitter, перестал в LinkedIn, перестал ходить на подкасты, остановил весь рост.
-Остались только я и мои ИИ-агенты, и мы по одному чинили всё, что ломалось.
-Вот что я понял: с ИИ можно решить всё. Буквально всё.
-Я строю Polsia, чтобы каждый соло-предприниматель получил доступ к тем же инструментам, которые прямо сейчас удерживают меня на плаву. Если я могу выжить в этом в одиночку, значит это можно упаковать и дать всем.
-Будущее — solopreneur + AI. Я живу на краю, чтобы вам не пришлось.&amp;quot; источник https://x.com/Bencera/status/2033719142017339683
-UD: Некоторые не понимают, что источник в Твиттере.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/654871911_10233873065320877_6866009698745169884_n.jpg?_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=idUidP2Pr5AQ7kNvwFYRmsc&amp;amp;_nc_oc=Adox3G3X5U0wqJTcmDlJkyXZfOFMTxR_8ldP6ond381gcVA_N3BcbGy99DACn5uiNYw&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1LZzGyKlJI4HGy1_Iolaf3abmgeWOt5UKltVnIoKAB9w&amp;amp;oe=69DBA672" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02Nya9gudPrKHiqsZkAEN1vNf59zhnaJyzsaDu8MsEPkvia955AVSrYEaH8HYyMguql</link>
+      <guid isPermaLink="false">pfbid02Nya9gudPrKHiqsZkAEN1vNf59zhnaJyzsaDu8MsEPkvia955AVSrYEaH8HYyMguql</guid>
+    <content:encoded>&lt;p&gt;Тут мне пришла в голову оригинальная мысль. Я все время что-то пытался делать для людей, и тут я понял, что это неправильно. Надо делать для военных.&lt;/p&gt;</content:encoded></item>
     <item>
       <link>https://www.facebook.com/profile.php?id=110071201904641</link>
-      <guid isPermaLink="false">1d639145a0fe66d1</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/654541817_2022680471925723_7252139102575356501_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=DScwcObCJ3wQ7kNvwHAO9wc&amp;_nc_oc=Adp9KDwMer5hvLC4--JENMr29_RoMSRnq1hAVwuiRzPpOMSGbjW9Ac4dpNhEMOPZwpo&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af1-Yzv8afiB57Xn7xsq2l-TgC9UyVyXXhFn1DfhH4l9og&amp;oe=69DB84E7" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;#такМожноБыло  Очень крутой пример: Посмотрите пару минут видео, что увидеть, что он создал. Знать язык не обязательно. Таким людям принадлежит будущее. Источник: https://x.com/toddsaunders/status/2034243420147859716
-&amp;quot;Я знаю, что стартапы в Кремниевой долине не хотят этого слышать…
-Но комбинация человека из прикладной профессии с глубокой отраслевой экспертизой и Claude Code будет бегать кругами вокруг вашего «универсального» софта.
-Сегодня утром я разговаривал с Кори ЛаШансом — механическим инженером, который занимается промышленными трубопроводами на строительстве объектов в Хьюстоне. Обычно он работает с химическими заводами и нефтеперерабатывающими предприятиями, а сейчас также работает с терминалом.
-Несколько дней назад он написал мне в личку, и его история так меня зажгла, что я попросил разрешения записать наш разговор и поделиться им.
-Он построил полноценное приложение, которым каждый день пользуются промышленные подрядчики. Оно читает изометрические чертежи трубопроводов и автоматически извлекает из них количество сварных швов, спецификации материалов и все товарные коды.
-Работа, которая раньше занимала 10 минут на один чертёж, теперь занимает 60 секунд. Оно может обработать 100 чертежей за пять минут, экономя дни работы.
-Его коллеги просто в шоке, и когда он разговаривает с ними, ощущение, будто они говорят на разных языках.
-Его производственный цех использует это каждый день, а всё приложение он сделал за 8 недель. Причём за эти же 8 недель ему пришлось с нуля разобраться с Claude Code, терминалом, VS Code — со всем.
-Моя любимая его фраза была такая:
-«Я буквально сделал всё это без какой-либо внешней помощи, кроме ИИ. Мои любимые инструменты — это скриншоты, пошаговые инструкции и просьба к Claude объяснить всё так, как будто мне пять лет».
-Теперь любой специалист-практик с глубокой экспертизой и готовностью провести несколько выходных с Claude Code — потенциальный основатель софтверной компании.
-Мне не терпится познакомиться с ещё большим количеством таких людей, как Кори.&amp;quot;
-Мой комментарий:
-Это человек никакого отношения к ИТ не имеет, он не продакт, не прогер, не дизайнер - он инженер-механик, но он смог все сделать, потому что «Я буквально сделал всё это без какой-либо внешней помощи, кроме ИИ. Мои любимые инструменты — это скриншоты, пошаговые инструкции и просьба к Claude объяснить всё так, как будто мне пять лет».
-Люди, вам никто более не нужен, чтобы создавать прекрасные и полезные вещи БЫСТРО. Если бы такой софт делали обычным образом, это было 30+ человек, 1 год и несколько миллионов $. SaaS умрет, потому что все, 100% проще делать in-house. Зачем вкладывать деньги в обучение ЧУЖИХ работников, вместо того, чтобы вкладывать в своих и свой IP. Так мыслит любой предприниматель.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/654541817_2022680471925723_7252139102575356501_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=DScwcObCJ3wQ7kNvwHAO9wc&amp;amp;_nc_oc=Adp9KDwMer5hvLC4--JENMr29_RoMSRnq1hAVwuiRzPpOMSGbjW9Ac4dpNhEMOPZwpo&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1-Yzv8afiB57Xn7xsq2l-TgC9UyVyXXhFn1DfhH4l9og&amp;amp;oe=69DB84E7" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/watch/hashtag/%D1%82%D0%B0%D0%BA%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D0%B1%D1%8B%D0%BB%D0%BE?__eep__=6%2F&amp;amp;__cft__[0]=AZZ38WHqWNuqQ1l6Nft98faMYK9dKzSk3f7xFDO7roy5nO3TaR15mbnINtAyK7_pJt5uw-7w_VMe8Z-q_pHTLuA2JFD4fe2fEVlk3-3-pmR3mionoMF9wIAZFTcLEi--mFlaHBQzg441aYWKaAcAKzxV3Tir1QwusHQOdVTli6wz6ieNUmMA3ax0Up8U1Hq00iuNBsXBCajLKGxyAcuRShrR&amp;amp;__tn__=*NK-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
+      <guid isPermaLink="false">ded32b4d48ce755f</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/655221575_1642115476808791_7196710607740804368_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=GNKJqRN7qX0Q7kNvwGorwIf&amp;_nc_oc=AdoXINthrSAuI8XgLx7U1BxdWH74Lmkns4utebk1L718BheI-XlncH49TQvno64cghk&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=smk5xPJZ_--jjbJu4gmdQA&amp;_nc_ss=7a3a8&amp;oh=00_Af2wYwkceZCE0sCahuk6iccamim_DwxcMmIfeLRiPTMvNA&amp;oe=69DB815D" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Унижение и троллинг Голливуда продолжается. Конечно, мы любим режиссеров, сценаристов, актеров, которые последние 100 лет доставляли нам столько радости, но мы все ненавидим голливудских снобов.
+SeeDance 2.0&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t15.5256-10/655221575_1642115476808791_7196710607740804368_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=GNKJqRN7qX0Q7kNvwGorwIf&amp;amp;_nc_oc=AdoXINthrSAuI8XgLx7U1BxdWH74Lmkns4utebk1L718BheI-XlncH49TQvno64cghk&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=smk5xPJZ_--jjbJu4gmdQA&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af2wYwkceZCE0sCahuk6iccamim_DwxcMmIfeLRiPTMvNA&amp;amp;oe=69DB815D" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/reel/771250289142464/?comment_id=1244688230983373&amp;amp;__cft__[0]=AZa6QM1twUYc1nO38Abfpue0gt6WMt8sDZ98Zq_KAZ3OMw2rSo1ILy74XEGO22HFlMndpQ16Z6AgU0qLdXT7CqkmHyYe6FFUUOagGdid1fSv4MEWgbGvosRvhjRiJB4Nbi0EN8JRN8hBG2GaMS-MKv9Ey_pHc4DNh_HAN-R0m2Gp2uwtYC5m_3OwCTLT0Btfsu_W6WbMGKf0AjlbrOnRcrtm&amp;amp;__tn__=R-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02CVbm3tf9Tcrxonz6AGpr9hgtBqBL18UAw7MkMLHaGqRRDoCVAydtgNeseq4b9eWml</link>
-      <guid isPermaLink="false">pfbid02CVbm3tf9Tcrxonz6AGpr9hgtBqBL18UAw7MkMLHaGqRRDoCVAydtgNeseq4b9eWml</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/653908701_10233853864440867_3559573182762635414_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=siA82Nbr9yoQ7kNvwFQSFOO&amp;_nc_oc=Ado64oB0lXITJHtgNBBbn21y7TdT6s6lAp951uJTNSUT24Mhz4anQhA2JDt6sf-pcCs&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;_nc_ss=7a3a8&amp;oh=00_Af30clNHK104zZoSa_G4hUuv8LJ34UrnHxoO72-1de0wdQ&amp;oe=69DB73F4" length="0" type="image/jpeg" />
-    <content:encoded>&lt;p&gt;Я уже давно отдаю предпочтение Claude Code, а не Codex или Gemini, поскольку он казался мне гораздо более надежным — хотя я и не мог объяснить почему. Теперь же Bullshit Bench от @petergostev предоставляет убедительные цифры, подтверждающие это.
-Этот бенчмарк определяет «чушь» (bullshit) следующим образом: если модели подсунуть ложные исходные данные, замаскированные под профессиональный жаргон, пойдет ли она на поводу у этого потока 
- чушь) или же даст отпор 
- истина)?
-И Claude здесь на голову выше остальных!
-Кроме того, эта цель — стремление к истинности — вероятно, вступает в противоречие с той «эмерджентной целью», которая сложилась на площадке Chatbot Arena, а именно: обеспечение «приятного опыта общения». Однако модель, оптимизированная именно под истинность, в конечном счете окажется куда более полезной.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/653908701_10233853864440867_3559573182762635414_n.jpg?_nc_cat=106&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=siA82Nbr9yoQ7kNvwFQSFOO&amp;amp;_nc_oc=Ado64oB0lXITJHtgNBBbn21y7TdT6s6lAp951uJTNSUT24Mhz4anQhA2JDt6sf-pcCs&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=bD-38EKmbWweZc7bYbzYlw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af30clNHK104zZoSa_G4hUuv8LJ34UrnHxoO72-1de0wdQ&amp;amp;oe=69DB73F4" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
+      <link>https://www.facebook.com/profile.php?id=110071201904641</link>
+      <guid isPermaLink="false">bd2f87e7c6533ec1</guid>
+      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t15.5256-10/655899377_1133498205526012_3356552468517944174_n.jpg?stp=dst-jpg_p960x960_tt6&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=5fad0e&amp;_nc_ohc=SPGbpmWNKkoQ7kNvwFEUOdW&amp;_nc_oc=AdpIO8VM1wEWuqUXwqqVi-gMPEOTZJ-h6j_Gj5wQVsWpTRj0h132isNXvKn0RP2IdIM&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=VwLIS9EvFlAs_EXLCuQ4Cw&amp;_nc_ss=7a3a8&amp;oh=00_Af1uYTHuVgHAgk6AqGULJMc7oWgbZyY3nCfR9t-3b5WH3A&amp;oe=69DBA372" length="0" type="image/jpeg" />
+    <content:encoded>&lt;p&gt;Архитекторы это возненавидят.
+Кто-то только что выложил в open source полноценный 3D-редактор зданий, который целиком работает прямо в браузере.
+Никакого AutoCAD. Никакого Revit. Никаких лицензий за $5,000 в год.
+Он называется Pascal Editor.
+Сделан на React Three Fiber и WebGPU — то есть рендерит напрямую на вашем GPU почти с нативной скоростью.
+Вот что в нём есть:
+→ Полноценная иерархия building / level / wall / zone, которую можно редактировать в реальном времени
+→ Архитектура в стиле ECS, где каждый объект обновляется через GPU-powered systems
+→ Управление состоянием через Zustand с встроенными undo/redo
+→ Фронтенд на Next.js, так что это разворачивается как веб-приложение, а не как десктопная установка
+→ Dirty node tracking — перерисовывается только то, что изменилось, а не вся сцена целиком
+А вот самая дикая часть:
+Можно складывать, “взрывать” по уровням или изолировать отдельные этажи здания. Выбираешь зону, тянешь стену, меняешь форму плиты — всё в 3D, всё прямо в браузере.
+Архитектурные фирмы платят $50K+ за одно место в BIM-софте, который делает такой workflow.
+А это бесплатно.
+100% Open Source. Источник: https://x.com/heygurisingh/status/2035674710005187065
+PS. Следующий шаг прикрутить к этому ИИ. Да, в течении 4-5 людей в архитектуре тоже не будет, похоже.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd2-1.fna.fbcdn.net/v/t15.5256-10/655899377_1133498205526012_3356552468517944174_n.jpg?stp=dst-jpg_p960x960_tt6&amp;amp;_nc_cat=111&amp;amp;ccb=1-7&amp;amp;_nc_sid=5fad0e&amp;amp;_nc_ohc=SPGbpmWNKkoQ7kNvwFEUOdW&amp;amp;_nc_oc=AdpIO8VM1wEWuqUXwqqVi-gMPEOTZJ-h6j_Gj5wQVsWpTRj0h132isNXvKn0RP2IdIM&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd2-1.fna&amp;amp;_nc_gid=VwLIS9EvFlAs_EXLCuQ4Cw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1uYTHuVgHAgk6AqGULJMc7oWgbZyY3nCfR9t-3b5WH3A&amp;amp;oe=69DBA372" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.facebook.com/reel/2173839683359978/?comment_id=742842738779172&amp;amp;__cft__[0]=AZYrezK0Nl67oXirLCE4SMlVcLTIiQRWa3RAFkukAtjpDn1AhC_g3vD--Lp-kEgDRsNGqeH-fhtPKyhB5KZFxnaFFWtlAquxZ8u1ZC-yuQ2M6aPZ9fSJaJSmx_4vAzqtarMxiVHP1zhhI6aPx1zGLg8NYkiATsohYu-uycDwNUMWH3QQPj2M63HX_0zs2TNFAA5YtlW4R4kj1hg71zwkAxnw&amp;amp;__tn__=R-R"&gt;&amp;#9654; Watch video&lt;/a&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/alex.v.krol/posts/pfbid02g7iFMnypoNfHenkKn4RucWoNS4HnJTWk6fHMTo86desgsL52eptTGvy4DKwbNf78l</link>
-      <guid isPermaLink="false">pfbid02g7iFMnypoNfHenkKn4RucWoNS4HnJTWk6fHMTo86desgsL52eptTGvy4DKwbNf78l</guid>
+      <link>https://www.facebook.com/alex.v.krol/posts/pfbid0ca54SdMTxE8bg4EuoeNPAxZeZULJdJqudyQYU6W2yEdi2HzcwshiXobePnZ7bK4sl</link>
+      <guid isPermaLink="false">pfbid0ca54SdMTxE8bg4EuoeNPAxZeZULJdJqudyQYU6W2yEdi2HzcwshiXobePnZ7bK4sl</guid>
+      <pubDate>Wed, 08 Apr 2026 04:27:02 +0000</pubDate>
     <content:encoded>&lt;p&gt;«Это как будто тебя бросили в зону шокирующей компетентности». Марк Андриссен о работе в одной из компаний Илона Маска:
 «Все там чрезвычайно компетентны... А если нет, Илон это моментально чует и увольняет».
-«Лучшие инженеры мира хотят работать на него, потому что он — едва ли не единственный CEO такого уровня, который способен работать с ними на равных».…&lt;/p&gt;</content:encoded></item>
-    <item>
-      <link>https://www.facebook.com/profile.php?id=110071201904641</link>
-      <guid isPermaLink="false">d8bf169f2c594ff5</guid>
-      <pubDate>Wed, 08 Apr 2026 02:21:37 +0000</pubDate>
-    <content:encoded>&lt;p&gt;Claude Code vs Codex - https://github.com/.../blob/main/claudecode_vs_codex.md
-Версия файла: v2.0 Дата версии: 2026-03-16 Тип документа: сравнительный гайд. Это сравнение следует читать как снимок материалов по состоянию на 16 марта 2026.
-Аннотация
-Это документ для тех, кто хочет понять простыми словами, чем отличаются Claude Code и Codex, не погружаясь глубоко в технические детали.
-Его цель:
-• показать, что умеет каждый агент;
-• объяснить, в чём они похожи, а в чём различаются;
-• помочь выбрать, какой инструмент лучше подходит под конкретную задачу.
-Практическая польза документа:
-• он помогает понять, какой агент лучше подходит для работы с макетами, ТЗ и сборкой продукта;
-• он показывает, какой агент удобнее для строгих настроек, ограничений, автоматизаций и повторяемой работы;
-• он объясняет ключевые термины простым языком, чтобы документ был полезен не только разработчикам.
-Проще говоря, это карта выбора между двумя кодовыми агентами: когда брать Claude Code, когда брать Codex, а когда полезно сочетать подходы обоих.
-Это обновлённая версия сравнения. Теперь оно основано не на двух, а на трёх документах из этого репозитория:
-    claudecode_process_1.md
-    claudecode-precess_2.md
-    codex_process_1.md
-Важно: второй документ про Claude Code сильно меняет картину. Раньше могло казаться, что Claude Code в этих материалах описан в основном как инструмент для длинного продуктового pipeline, а Codex — как более формальная и настраиваемая агентная система. После появления claudecode-precess_2.md видно, что это уже не совсем так.
-Теперь картина точнее такая:
-• Claude Code в этих материалах показан и как инструмент для сборки продукта, и как серьёзная агентная система с настройками, permissions, hooks, sandbox, subagents и MCP.
-• Codex в этих материалах по-прежнему очень силён как настраиваемая агентная платформа с AGENTS.md, config.toml, approval_policy, sandbox_mode, rules, automations и custom agents.
-То есть сравнение стало более честным и более симметричным.
-Этот документ написан простым языком для людей, которые используют AI-инструменты, но не обязаны быть разработчиками. Если встречается непонятный термин, в конце есть тезаурус.
-Если сказать совсем просто:
-• Claude Code по этим материалам лучше показан как агент, который помогает пройти путь от идеи и макетов до рабочего продукта.
-• Codex по этим материалам лучше показан как агент, которого особенно удобно жёстко настраивать, ограничивать, масштабировать на несколько сценариев и ставить на повторяемую работу.
-Оба агента являются полноценными агентными платформами, просто сильные стороны у них чуть разные.
-Разрыв между Claude Code и Codex в части &amp;quot;системности&amp;quot; стал меньше. Сравнение теперь уже не про то, есть ли у Claude Code control plane вообще. Он есть. Вопрос теперь скорее в том, какой тип управления и какой стиль работы вам ближе.
-Как читать это сравнение? Ниже будут две таблицы:
-    Платформенное сравнение
-Там речь про управление агентом как системой:
-    правила;
-    настройки;
-    permissions;
-    hooks;
-    subagents;
-    skills;
-    безопасность;
-    интеграции.
-Сравнение по практическим сценариям
-    Там уже речь про реальные use case:
-    макеты;
-    ТЗ;
-    browser automation;
-    регулярные задачи;
-    длинные продуктовые цепочки;
-    работа без интерфейса;
-    обучение команды.
-В последней колонке каждой таблицы я пишу не технический вывод, а ответ на вопрос: &amp;quot;Что это значит для обычного человека?&amp;quot;&lt;/p&gt;</content:encoded></item>
+«Лучшие инженеры мира хотят работать на него, потому что он — едва ли не единственный CEO такого уровня, который способен работать с ними на равных».
+«Поэтому у него возникает невероятно мощный позитивный отбор: самые умные люди в мире хотят у него работать, а любой, кто не тянет, вылетает».
+«Мир воспринимает это как грубую агрессию».
+«Но дело не только в этом. Это очень системный способ оптимизации таких компаний, чтобы они могли браться за по-настоящему фундаментальные вызовы и действительно решать все возникающие проблемы... со скоростью, которой просто никто не может сравниться».&lt;/p&gt;</content:encoded></item>
   </channel>
 </rss>
