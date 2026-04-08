@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>103418982686231 — Facebook RSS</title>
     <link>https://www.facebook.com/103418982686231</link>
@@ -7,108 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 01:17:06 +0000</lastBuildDate>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid028KbCknAaC1QoxxPT3cmFnFWkmZhfFpGe6mbgm9zM2JikuLoQfmRinQtvNrsuNjdHl</link>
-      <guid isPermaLink="false">pfbid028KbCknAaC1QoxxPT3cmFnFWkmZhfFpGe6mbgm9zM2JikuLoQfmRinQtvNrsuNjdHl</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/622383385_4476088522622054_6586165561254284377_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=Y102zJRfDLkQ7kNvwHYqakm&amp;_nc_oc=Adpxq0RDEWv2fNwHue2Z7TA-ma20tyB629tlcqmMjBeUrb1BA34I2oYGE2lY0cYHpfQ&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=hNXZ1aNeoy8AyDiCmgL5sw&amp;_nc_ss=7a3a8&amp;oh=00_Af2MvY2bh0MWFU_TmFIQL4CBBghhSup76gVkkLIFmMeMiw&amp;oe=69DB56A9" length="0" type="image/jpeg" />
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid022RKqcPBnqmFouJ8MHQqf7Dkmmc2rEpqzS1UmvAYNoxqmaeYhjZA9hkLb2JreRpe8l</link>
-      <guid isPermaLink="false">pfbid022RKqcPBnqmFouJ8MHQqf7Dkmmc2rEpqzS1UmvAYNoxqmaeYhjZA9hkLb2JreRpe8l</guid>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0JPYA5fdfchKoQTP9tFUaFMjv9iAUtxiFNnFHjn6VtHn2rU6T4XqnFL69azzRam7Jl</link>
-      <guid isPermaLink="false">pfbid0JPYA5fdfchKoQTP9tFUaFMjv9iAUtxiFNnFHjn6VtHn2rU6T4XqnFL69azzRam7Jl</guid>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02UhMQecWiErseKesE1b6xeMbVkFWUvDdD9q38sutKpUoLSte9yrvnkyGz4ioyie7Fl</link>
-      <guid isPermaLink="false">pfbid02UhMQecWiErseKesE1b6xeMbVkFWUvDdD9q38sutKpUoLSte9yrvnkyGz4ioyie7Fl</guid>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0nrgihoUFdknwqaFrPKaXmtZFPnUavqsXE1B7Bpd1fCkQ7x4HN2eDFav7a8kCVpQBl</link>
-      <guid isPermaLink="false">pfbid0nrgihoUFdknwqaFrPKaXmtZFPnUavqsXE1B7Bpd1fCkQ7x4HN2eDFav7a8kCVpQBl</guid>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0Jj5xAi6DxQ7Ko9567FDEdWDeEbTK2QRFj7S2pZcpWzm5F4zGgdYSAs2v7bauRJUzl</link>
-      <guid isPermaLink="false">pfbid0Jj5xAi6DxQ7Ko9567FDEdWDeEbTK2QRFj7S2pZcpWzm5F4zGgdYSAs2v7bauRJUzl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/602944843_4441348436096063_4909314675108254926_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=wDlUw5dVrJUQ7kNvwGqCwnW&amp;_nc_oc=AdpzZTJcrRDdK_ed9THFZ5KnEd_8x6BSx09mjZeyiqjTImEu4zvtbumIaedGq1k89AA&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=7SpjNsFpgwJRK0vjTVyUTw&amp;_nc_ss=7a3a8&amp;oh=00_Af3OkXkCBjIPP7CqdDwEdsHQSNz72pCuOFZK7F_EqRWW9g&amp;oe=69DB70C2" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 02:14:14 +0000</lastBuildDate>
     <item>
       <link>https://www.facebook.com/profile.php?id=103418982686231</link>
-      <guid isPermaLink="false">1876564c06c41331</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
+      <guid isPermaLink="false">4a3277ba078eef79</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/550588736_4346311495599758_4854607966004415911_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=fQEZINqvWNAQ7kNvwFW-9UY&amp;_nc_oc=AdoVIibpoyTJL5PcG9f9CLavYRFmHl-oPXHvKkLsr1D238AP_UMV0P2aLIpJW_gd2wA&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=5F9wM2ltg75LUVATiBtMkw&amp;_nc_ss=7a3a8&amp;oh=00_Af1V1TBOYNMOWF6KlxYgnoowtPpIsLFGuZatzr9duZQYww&amp;oe=69DB73AC" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 02:14:14 +0000</pubDate>
+    <content:encoded>&lt;p&gt;Потихоньку подбираюсь к анонсу нового девайса. Oumua, разумеется, никуда не девается, про тренажер будет только больше новостей ближайшее время: про заявку в FDA, дистрибуцию в России (at last), новую версию устройства с чекапом здоровья по выдоху, etc. 
+Сказавши это 
+ новый девайс — это «биохакерский мультитул», который за счет Кучи датчиков (12 разных ТИПОВ датчиков, работающих в связке друг с другом), объединенных в одном форм-факторе, снимает с юзера беспрецедентное количество неинвазивных данных о здоровье. 
+Данные снимаются практически с каждой важной системы организма с помощью несложных, интуитивно понятных тестов. И выдает… ох, чего он только не выдает, но ближе всего это к «индивидуальному чекапу здоровья в любой момент в карманном форм-факторе по цене шоколадки». 
+Это не все - с подключаемыми модулями (адд-онами) мы планируем добавлять более «инвазивные» модули вроде анализа крови и мочи.
+И это все еще не все 
+ мультитул также можно будет синхронизировать с данными, поступающими от Гармин, Apple, Oura и Whoop. 
+И, разумеется, в центре этого всего будет AI, который будет искать пересечения всех метрик со всеми остальными метриками, и тренироваться выдавать о вас всякое супер-интересное, точное, важное для вас, и, самое главное, предиктивное.
+Так вот: этой штуке нужно НАЗВАНИЕ. 
+У меня есть несколько идей, но вы пишите ваши варианты в комментариях — самый крутой вариант получит тренажер Oumua с доставкой в любую точку мира.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/550588736_4346311495599758_4854607966004415911_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;amp;_nc_cat=108&amp;amp;ccb=1-7&amp;amp;_nc_sid=13d280&amp;amp;_nc_ohc=fQEZINqvWNAQ7kNvwFW-9UY&amp;amp;_nc_oc=AdoVIibpoyTJL5PcG9f9CLavYRFmHl-oPXHvKkLsr1D238AP_UMV0P2aLIpJW_gd2wA&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=5F9wM2ltg75LUVATiBtMkw&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af1V1TBOYNMOWF6KlxYgnoowtPpIsLFGuZatzr9duZQYww&amp;amp;oe=69DB73AC" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/profile.php?id=103418982686231</link>
-      <guid isPermaLink="false">e522d628cef1aada</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid0kk9jmB22AXXr4nWWXdbc2XT4t26a2JePD8XGPFZQqP7LpEU8krNW9GdGdRDjhmTul</link>
+      <guid isPermaLink="false">pfbid0kk9jmB22AXXr4nWWXdbc2XT4t26a2JePD8XGPFZQqP7LpEU8krNW9GdGdRDjhmTul</guid>
+      <pubDate>Wed, 08 Apr 2026 02:14:14 +0000</pubDate>
+    <content:encoded>&lt;p&gt;https://startupsummit.ru
+Вот тут на финале Sber500 буду рассказывать про ИИ в текущей и новой версии Oumua. 
+Ну а про что я еще могу рассказывать, правильно, у меня одна пластинка.
+Приходите!
+Я правда не знаю, как, потому что это закрытая история по приглашениям с важными дядьками в костюмах. 
+Даже я буду в костюме&lt;/p&gt;</content:encoded></item>
     <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02W6w3c1JMjKPAoGFF5xvbirQnwewhfVNRa4HHtvsEMNHDAAVpuGHSzMYbpqU2ZWptl</link>
-      <guid isPermaLink="false">pfbid02W6w3c1JMjKPAoGFF5xvbirQnwewhfVNRa4HHtvsEMNHDAAVpuGHSzMYbpqU2ZWptl</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid027nTwDnRhmXE4NRGVq2pRxdbSQp4TSRmTdjHcDzcjehhuD78bDH3AddnyDB53trVsl</link>
-      <guid isPermaLink="false">pfbid027nTwDnRhmXE4NRGVq2pRxdbSQp4TSRmTdjHcDzcjehhuD78bDH3AddnyDB53trVsl</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/618097970_4464811587083081_3385987890903469617_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=77aeJI-57goQ7kNvwHniTC4&amp;_nc_oc=AdoeLnGftBs0rSFj3yuu4jHaY4cSHes9yUWl5LiofTHplZwb53awD6MuZqw_aemOfH0&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=5BSssCtiqejXyb1hVAoRlA&amp;_nc_ss=7a3a8&amp;oh=00_Af2AX5OaBzXIqRMYJE6tpeGINP2v3OBl1brJiuVX96n7_A&amp;oe=69DB6488" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02wfMHo259RDD7sxw8wGCC9JpSuCxdBTgWA5KqHxKCisCVXi8LknfF5g3DFSFH9KhSl</link>
-      <guid isPermaLink="false">pfbid02wfMHo259RDD7sxw8wGCC9JpSuCxdBTgWA5KqHxKCisCVXi8LknfF5g3DFSFH9KhSl</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/617043278_4464851203745786_8991173895632307007_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=zvwnaovdZLoQ7kNvwHMJZkm&amp;_nc_oc=AdprYslpAgYhA4Wwh-4g-q8y753ZA1-uSM9N5XTwG3UnqgMsWW-YYLVBXcRoE6SRegM&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=5BSssCtiqejXyb1hVAoRlA&amp;_nc_ss=7a3a8&amp;oh=00_Af2j-S75Co9QEnBPk0K6fOy1aAJ_qL30RA-4OLQ4uyNFsw&amp;oe=69DB919C" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02PGwHZ8dZTnt1e8DMq6bSz8GPm1RFXfWaehUcVhA15fqa4Nu2EB3nP8TkT47ad8Eal</link>
-      <guid isPermaLink="false">pfbid02PGwHZ8dZTnt1e8DMq6bSz8GPm1RFXfWaehUcVhA15fqa4Nu2EB3nP8TkT47ad8Eal</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid036GmYo47ch6AjeCyiueVd4QVez3qpBWq4KTi67SwLLViQMHzEABs15qSd3MYJ5mtql</link>
-      <guid isPermaLink="false">pfbid036GmYo47ch6AjeCyiueVd4QVez3qpBWq4KTi67SwLLViQMHzEABs15qSd3MYJ5mtql</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/622383385_4476088522622054_6586165561254284377_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=Y102zJRfDLkQ7kNvwHYqakm&amp;_nc_oc=Adpxq0RDEWv2fNwHue2Z7TA-ma20tyB629tlcqmMjBeUrb1BA34I2oYGE2lY0cYHpfQ&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=vJ1tGfeh-2Cu7mMeUNKJ2w&amp;_nc_ss=7a3a8&amp;oh=00_Af24aj2jVSc7mH4Tl7WdWnZOSUjn5gCJejGOlYaktqJm8Q&amp;oe=69DB8EE9" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0tddfmPF2wqxWbHJqjc8qhsD9WeAQ71nqd6tGYHXQ67ixXANKbxUBNotvsH93Rvfzl</link>
-      <guid isPermaLink="false">pfbid0tddfmPF2wqxWbHJqjc8qhsD9WeAQ71nqd6tGYHXQ67ixXANKbxUBNotvsH93Rvfzl</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid02Bka6E3HwgW641XZiXUKdodXZHxdwCRfXQykFEfkuqY2eyBCKWXHxmxGNkba5nSrAl</link>
-      <guid isPermaLink="false">pfbid02Bka6E3HwgW641XZiXUKdodXZHxdwCRfXQykFEfkuqY2eyBCKWXHxmxGNkba5nSrAl</guid>
-      <enclosure url="https://scontent.fyxd2-1.fna.fbcdn.net/v/t39.30808-6/629326998_4485600181670888_1456280466921040627_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=4DtQrzFDDqUQ7kNvwGmKALF&amp;_nc_oc=AdqZKrB61a_ygNw8Ifuh96MJVA8yT88ajPjEIKsFEDu-QA4LdZ9fDmky2mwNUDgH5YM&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd2-1.fna&amp;_nc_gid=ZyjALopU7s_QkeTVjxXqnw&amp;_nc_ss=7a3a8&amp;oh=00_Af0on-H5-Rt4tj_TVJLarHxrMEUnMl_35fxStwZNKeSxxg&amp;oe=69DB6879" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid029zgGdiV7fxsuG3LS4G9gsKo6annmyLTWSYGHgpXKU3muMaBwa2U3eXY8rNgT18cEl</link>
-      <guid isPermaLink="false">pfbid029zgGdiV7fxsuG3LS4G9gsKo6annmyLTWSYGHgpXKU3muMaBwa2U3eXY8rNgT18cEl</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0ezqoSdZrn9gcJADRdQ329kzqdiTj2WvPqesWK11k1aNAQSawr3oCRnAWJ75Eo3Fql</link>
-      <guid isPermaLink="false">pfbid0ezqoSdZrn9gcJADRdQ329kzqdiTj2WvPqesWK11k1aNAQSawr3oCRnAWJ75Eo3Fql</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0aZsV8zKGAdw2n98pBj5bC5P5GZNtSQdMVE788UngbmqcMc5rkQvMrdDRqzsMqPSal</link>
-      <guid isPermaLink="false">pfbid0aZsV8zKGAdw2n98pBj5bC5P5GZNtSQdMVE788UngbmqcMc5rkQvMrdDRqzsMqPSal</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid038cDnDNmCTD1yPkWmyaJvuY867kLayUmdy1Q2XBBv1yZ73x7xa4W6fXzwLbH6DWvl</link>
-      <guid isPermaLink="false">pfbid038cDnDNmCTD1yPkWmyaJvuY867kLayUmdy1Q2XBBv1yZ73x7xa4W6fXzwLbH6DWvl</guid>
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <link>https://www.facebook.com/frankocorelli/posts/pfbid0NvdBpf9eDYzK2ZCo8L5FbM7cTettJ5hvGL9NdFtWMyzZjGQyL4xWfptyB9hETDFdl</link>
-      <guid isPermaLink="false">pfbid0NvdBpf9eDYzK2ZCo8L5FbM7cTettJ5hvGL9NdFtWMyzZjGQyL4xWfptyB9hETDFdl</guid>
-      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/642254679_4506958896201683_8894492059234325803_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=ZIvZgxW1M2UQ7kNvwE5M-SP&amp;_nc_oc=AdpFXJWzTq9jxI1XWRn158CxPcc2y6Dc6pCdwNsdMddCtdrhNxm_pYQ4KE1S0ZgaIn0&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=0EeAQk6aqDcbMCQ7EvsguQ&amp;_nc_ss=7a3a8&amp;oh=00_Af19qSIbDHC2offmfxZDB4KnL_WZaUTCZ_lr8i1G56_04w&amp;oe=69DB66EE" length="0" type="image/jpeg" />
-      <pubDate>Wed, 08 Apr 2026 01:17:06 +0000</pubDate>
-    </item>
+      <link>https://www.facebook.com/frankocorelli/posts/pfbid02XiXU6vkKBbWPpATtpUHbvGcDB8o4xHGCk96aC56vn3TsNtDR8tA9a1sACQSRPxFVl</link>
+      <guid isPermaLink="false">pfbid02XiXU6vkKBbWPpATtpUHbvGcDB8o4xHGCk96aC56vn3TsNtDR8tA9a1sACQSRPxFVl</guid>
+      <enclosure url="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/557079584_4354323721465202_4758784612872997593_n.jpg?stp=cp6_dst-jpg_tt6&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=7b2446&amp;_nc_ohc=WBXIkGTfnoIQ7kNvwHTwZXs&amp;_nc_oc=Adqd9KUeVtR_lKZACtfaKFKrwktdddRZ-E5sd5bu1IeNqpsQC2pKlfub1L8dsD3BReo&amp;_nc_zt=23&amp;_nc_ht=scontent.fyxd1-1.fna&amp;_nc_gid=nUAeN4ZbEzL6Wb1tjRaIaA&amp;_nc_ss=7a3a8&amp;oh=00_Af33o7zKyhH97Vt-nOG6gpn-2XdnHhsq3G1d-rcxImjZWQ&amp;oe=69DB944F" length="0" type="image/jpeg" />
+      <pubDate>Wed, 08 Apr 2026 02:14:14 +0000</pubDate>
+    <content:encoded>&lt;p&gt;Закрываю компанию.
+Когда проиграл, то надо признавать, что проиграл.&lt;/p&gt;&lt;p&gt;&lt;img src="https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/557079584_4354323721465202_4758784612872997593_n.jpg?stp=cp6_dst-jpg_tt6&amp;amp;_nc_cat=107&amp;amp;ccb=1-7&amp;amp;_nc_sid=7b2446&amp;amp;_nc_ohc=WBXIkGTfnoIQ7kNvwHTwZXs&amp;amp;_nc_oc=Adqd9KUeVtR_lKZACtfaKFKrwktdddRZ-E5sd5bu1IeNqpsQC2pKlfub1L8dsD3BReo&amp;amp;_nc_zt=23&amp;amp;_nc_ht=scontent.fyxd1-1.fna&amp;amp;_nc_gid=nUAeN4ZbEzL6Wb1tjRaIaA&amp;amp;_nc_ss=7a3a8&amp;amp;oh=00_Af33o7zKyhH97Vt-nOG6gpn-2XdnHhsq3G1d-rcxImjZWQ&amp;amp;oe=69DB944F" alt="post image" style="max-width:100%"/&gt;&lt;/p&gt;</content:encoded></item>
   </channel>
 </rss>
